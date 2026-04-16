@@ -1,6 +1,6 @@
 # 🏥 Pharmacy Inventory & Sales Analytics Dashboard
 
-📌 Overview
+## 📌 Overview
 
 This project analyzes pharmacy inventory and sales data to generate actionable insights using MySQL and Power BI. It focuses on tracking revenue performance, monitoring stock levels, and identifying risks such as low inventory and expiring medications.
 
@@ -18,6 +18,21 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 * **MySQL** – Data extraction, joins, and aggregations
 * **Power BI** – Data modeling, DAX calculations, and dashboard design
 * **Excel** – Data preparation and cleaning
+  
+---
+
+## 🤖 Use of AI
+
+AI tools were used to assist in:
+
+* Created realistic synthetic healthcare dataset
+* Used nested queries to calculate metrics such as returning patients
+* Utilized DATE_FORMAT() to group data by month and year for time-based trend analysis
+* Built logic for calculating percentage rates 
+* Debugging errors in SQL and DAX
+* Structuring calculations for Power BI
+
+All outputs were manually validated and refined to ensure accuracy and reliability.
 
 ---
 
@@ -51,15 +66,6 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 * 🥇 Top Selling Medication  
 
 ---
-
-## 💰 Sample SQL Query  
-SELECT   
-    SUM(s.quantity_sold * m.unit_price) AS total_revenue  
-FROM sales_data s  
-JOIN meds_data m  
-    ON s.medication_id = m.medication_id;  
-
----
     
 ## 📈 Power BI Dashboard Features
 * KPI cards for quick performance overview
@@ -82,7 +88,7 @@ JOIN meds_data m
 
 ## 📸 Dashboard Preview
 
-
+![](images/dash.jpg)
 
 ---
 
@@ -91,9 +97,11 @@ JOIN meds_data m
 * Implement automated refresh  
 * Add drill-through and tooltips  
 
----
-
 ## 👤 Author
 
 Adriane Clark Ballesteros  
-Aspiring Healthcare Data Analyst
+Healthcare Data Analyst Trainee
+
+* 🔗 GitHub: https://github.com/acbshields12
+
+---
