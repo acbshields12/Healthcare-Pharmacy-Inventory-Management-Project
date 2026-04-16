@@ -94,5 +94,5 @@ Add drill-through and tooltips
 
 ## 👤 Author
 
-Adriane Clark Ballesteros
+Adriane Clark Ballesteros  
 Aspiring Healthcare Data Analyst
