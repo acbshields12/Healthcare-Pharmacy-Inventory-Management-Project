@@ -51,44 +51,44 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 
 ---
 
-## 💰 Sample SQL Query
-SELECT 
-    SUM(s.quantity_sold * m.unit_price) AS total_revenue
-FROM sales_data s
-JOIN meds_data m
-    ON s.medication_id = m.medication_id;
+## 💰 Sample SQL Query  
+SELECT   
+    SUM(s.quantity_sold * m.unit_price) AS total_revenue  
+FROM sales_data s  
+JOIN meds_data m  
+    ON s.medication_id = m.medication_id;  
 
 ---
     
 ## 📈 Power BI Dashboard Features
-KPI cards for quick performance overview
-Monthly revenue trend (line chart)
-Top-selling medications (bar chart)
-Revenue distribution by category (donut chart)
-Stock vs reorder level comparison
-Low stock and out-of-stock monitoring
-Expiry tracking by month
-Interactive slicers (category, medication, date)
+* KPI cards for quick performance overview
+* Monthly revenue trend (line chart)
+* Top-selling medications (bar chart)
+* Revenue distribution by category (donut chart)
+* Stock vs reorder level comparison
+* Low stock and out-of-stock monitoring
+* Expiry tracking by month
+* Interactive slicers (category, medication, date)
 
 ---
 
 ## 🧠 Key Insights
-A small group of medications drives the majority of total revenue
-Several medications frequently fall below reorder levels, indicating supply risk
-Some inventory is nearing expiration, increasing the risk of wastage
+* A small group of medications drives the majority of total revenue
+* Several medications frequently fall below reorder levels, indicating supply risk
+* Some inventory is nearing expiration, increasing the risk of wastage
 
 ---
 
 ## 📸 Dashboard Preview
 
-Add your Power BI screenshot here
+
 
 ---
 
 ## 🚀 Future Improvements
-Add demand forecasting
-Implement automated refresh
-Add drill-through and tooltips
+* Add demand forecasting  
+* Implement automated refresh  
+* Add drill-through and tooltips  
 
 ---
 
