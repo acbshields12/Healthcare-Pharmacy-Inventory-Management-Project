@@ -14,15 +14,15 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 ---
 
 ## 🛠️ Tools & Technologies
-*MySQL – Data extraction, joins, and aggregations
-*Power BI – Data modeling, DAX calculations, and dashboard design
-*Excel – Data preparation and cleaning
+* **MySQL** – Data extraction, joins, and aggregations
+* **Power BI** – Data modeling, DAX calculations, and dashboard design
+* **Excel** – Data preparation and cleaning
 
 ---
 
 ## 🗄️ Dataset Structure
 
-###📦 meds_data
+📦 meds_data
 *medication_id
 *medication_name
 *category
@@ -31,7 +31,7 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 *unit_price
 *expiry_date
 
-###💊 sales_data
+💊 sales_data
 *sale_id
 *medication_id
 *quantity_sold
