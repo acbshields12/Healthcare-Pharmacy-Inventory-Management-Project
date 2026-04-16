@@ -56,10 +56,28 @@ Several medications frequently fall below reorder levels, indicating supply risk
 Some inventory is nearing expiration, increasing the risk of wastage
 ⚠️ Data Validation & Issue Resolution
 
+A discrepancy was identified between SQL and Power BI revenue calculations:
 
+MySQL: 30,614
+Power BI: 28,068
+🔍 Root Cause
+
+Missing or unmatched medication_id values between tables caused RELATED() in Power BI to return blanks, resulting in lower revenue.
+
+✅ Resolution
+Verified and corrected table relationships (Many-to-One)
+Identified unmatched records
+Adjusted DAX calculations to handle missing values
+Ensured consistency between SQL and Power BI logic
+📌 Key Skills Demonstrated
+SQL joins and aggregations
+Data modeling in Power BI
+DAX measures (SUMX, RELATED, CALCULATE)
+Dashboard design and data visualization
+Data validation and debugging
 📸 Dashboard Preview
 
-
+Add your Power BI dashboard screenshot here
 
 🚀 Future Improvements
 Add demand forecasting for inventory planning
