@@ -1,0 +1,1001 @@
+medication_id,medication_name,mysql_price
+M001,Paracetamol,2
+M002,Paracetamol,2
+M003,Metformin,1
+M004,Ibuprofen,2
+M005,"Vitamin C",1
+M006,Losartan,1
+M007,"Vitamin C",2
+M008,Azithromycin,2
+M009,Amoxicillin,2
+M010,Metformin,1
+M011,Azithromycin,1
+M012,Losartan,2
+M013,Cetirizine,1
+M014,Ibuprofen,2
+M015,"Vitamin C",1
+M016,Cetirizine,1
+M017,Azithromycin,1
+M018,Amlodipine,1
+M019,Cetirizine,1
+M020,"Vitamin C",2
+M021,Paracetamol,2
+M022,Amlodipine,1
+M023,Amoxicillin,1
+M024,Amlodipine,1
+M025,Metformin,1
+M026,Losartan,1
+M027,Amoxicillin,1
+M028,Paracetamol,2
+M029,"Vitamin C",1
+M030,Ibuprofen,1
+M031,Azithromycin,1
+M032,Metformin,1
+M033,Amoxicillin,2
+M034,Metformin,1
+M035,Metformin,1
+M036,Cetirizine,1
+M037,"Vitamin C",2
+M038,Cetirizine,1
+M039,Cetirizine,1
+M040,Paracetamol,2
+M041,Ibuprofen,1
+M042,Omeprazole,2
+M043,Losartan,1
+M044,Metformin,1
+M045,Cetirizine,1
+M046,Amlodipine,1
+M047,Azithromycin,1
+M048,Azithromycin,2
+M049,Cetirizine,1
+M050,Losartan,2
+M051,Amlodipine,1
+M052,Azithromycin,2
+M053,Ibuprofen,1
+M054,Paracetamol,1
+M055,"Vitamin C",2
+M056,Losartan,1
+M057,Cetirizine,1
+M058,Paracetamol,1
+M059,Amlodipine,1
+M060,Amlodipine,1
+M061,Cetirizine,2
+M062,Losartan,1
+M063,Cetirizine,1
+M064,Ibuprofen,2
+M065,Omeprazole,1
+M066,Losartan,2
+M067,Paracetamol,1
+M068,Metformin,1
+M069,Amoxicillin,2
+M070,Amlodipine,1
+M071,Paracetamol,1
+M072,Omeprazole,2
+M073,Paracetamol,1
+M074,Ibuprofen,2
+M075,Losartan,1
+M076,Azithromycin,1
+M077,"Vitamin C",1
+M078,Amoxicillin,2
+M079,"Vitamin C",1
+M080,"Vitamin C",2
+M081,Azithromycin,1
+M082,Azithromycin,1
+M083,Azithromycin,1
+M084,Amoxicillin,1
+M085,"Vitamin C",1
+M086,Azithromycin,1
+M087,Amoxicillin,1
+M088,Losartan,1
+M089,Azithromycin,1
+M090,"Vitamin C",2
+M091,Omeprazole,1
+M092,Amoxicillin,2
+M093,Azithromycin,1
+M094,Amlodipine,1
+M095,Ibuprofen,2
+M096,Azithromycin,1
+M097,"Vitamin C",2
+M098,Ibuprofen,1
+M099,Amoxicillin,2
+M100,Metformin,1
+M1000,Amoxicillin,2
+M101,Amoxicillin,1
+M102,"Vitamin C",1
+M103,Losartan,1
+M104,Losartan,2
+M105,Ibuprofen,1
+M106,"Vitamin C",1
+M107,Ibuprofen,1
+M108,Cetirizine,1
+M109,Paracetamol,2
+M110,Omeprazole,1
+M111,"Vitamin C",2
+M112,Ibuprofen,2
+M113,Amoxicillin,1
+M114,Metformin,2
+M115,Paracetamol,1
+M116,Cetirizine,2
+M117,Omeprazole,1
+M118,Ibuprofen,1
+M119,Omeprazole,2
+M120,Azithromycin,1
+M121,Omeprazole,2
+M122,Omeprazole,1
+M123,Amoxicillin,1
+M124,Losartan,2
+M125,Amlodipine,1
+M126,Losartan,1
+M127,Azithromycin,2
+M128,Azithromycin,1
+M129,Azithromycin,2
+M130,Amoxicillin,2
+M131,Amlodipine,1
+M132,Amoxicillin,1
+M133,Azithromycin,1
+M134,Amlodipine,1
+M135,Metformin,1
+M136,Paracetamol,1
+M137,Cetirizine,1
+M138,Amoxicillin,1
+M139,Losartan,2
+M140,Amoxicillin,1
+M141,Cetirizine,1
+M142,"Vitamin C",1
+M143,Azithromycin,1
+M144,Metformin,1
+M145,Azithromycin,1
+M146,Cetirizine,2
+M147,Losartan,1
+M148,Cetirizine,2
+M149,Paracetamol,1
+M150,Metformin,1
+M151,Paracetamol,1
+M152,Cetirizine,2
+M153,"Vitamin C",1
+M154,Amlodipine,1
+M155,Cetirizine,2
+M156,Amoxicillin,1
+M157,Omeprazole,2
+M158,Ibuprofen,1
+M159,Losartan,1
+M160,Losartan,1
+M161,Amlodipine,1
+M162,Ibuprofen,1
+M163,Amoxicillin,2
+M164,Losartan,2
+M165,Ibuprofen,1
+M166,Amoxicillin,1
+M167,Cetirizine,1
+M168,Cetirizine,1
+M169,Omeprazole,1
+M170,Ibuprofen,1
+M171,Ibuprofen,2
+M172,Cetirizine,1
+M173,Losartan,1
+M174,Ibuprofen,1
+M175,Losartan,1
+M176,Omeprazole,1
+M177,"Vitamin C",1
+M178,Amlodipine,1
+M179,"Vitamin C",1
+M180,Ibuprofen,2
+M181,Paracetamol,1
+M182,"Vitamin C",1
+M183,Paracetamol,2
+M184,Paracetamol,2
+M185,Omeprazole,2
+M186,Omeprazole,1
+M187,Cetirizine,1
+M188,Metformin,1
+M189,"Vitamin C",1
+M190,Amoxicillin,1
+M191,Paracetamol,1
+M192,Cetirizine,1
+M193,Ibuprofen,2
+M194,Omeprazole,1
+M195,Metformin,1
+M196,"Vitamin C",1
+M197,Paracetamol,1
+M198,Paracetamol,2
+M199,Amlodipine,1
+M200,Azithromycin,1
+M201,Amlodipine,1
+M202,Ibuprofen,1
+M203,Paracetamol,1
+M204,Amoxicillin,1
+M205,Amoxicillin,1
+M206,Cetirizine,1
+M207,Amoxicillin,1
+M208,Azithromycin,1
+M209,"Vitamin C",1
+M210,Omeprazole,1
+M211,Omeprazole,1
+M212,Omeprazole,2
+M213,Cetirizine,1
+M214,Losartan,2
+M215,Losartan,1
+M216,Cetirizine,2
+M217,Cetirizine,2
+M218,Paracetamol,1
+M219,Cetirizine,2
+M220,"Vitamin C",1
+M221,Losartan,1
+M222,Metformin,2
+M223,Amoxicillin,1
+M224,Amoxicillin,1
+M225,Ibuprofen,2
+M226,Azithromycin,2
+M227,Omeprazole,2
+M228,Omeprazole,1
+M229,"Vitamin C",2
+M230,Amoxicillin,1
+M231,Omeprazole,1
+M232,Amoxicillin,1
+M233,Amlodipine,1
+M234,Omeprazole,2
+M235,"Vitamin C",1
+M236,Omeprazole,1
+M237,Losartan,2
+M238,Ibuprofen,2
+M239,Paracetamol,1
+M240,Losartan,1
+M241,Azithromycin,2
+M242,Amoxicillin,1
+M243,Paracetamol,1
+M244,Paracetamol,1
+M245,Amlodipine,1
+M246,Paracetamol,2
+M247,Amoxicillin,2
+M248,Losartan,1
+M249,Amoxicillin,1
+M250,Metformin,2
+M251,Azithromycin,1
+M252,Azithromycin,2
+M253,Metformin,1
+M254,Amoxicillin,1
+M255,Ibuprofen,1
+M256,Amoxicillin,1
+M257,Amoxicillin,1
+M258,Losartan,1
+M259,Metformin,2
+M260,Cetirizine,1
+M261,Paracetamol,1
+M262,Azithromycin,1
+M263,Azithromycin,2
+M264,Amoxicillin,1
+M265,"Vitamin C",1
+M266,Amoxicillin,1
+M267,Ibuprofen,1
+M268,Metformin,1
+M269,"Vitamin C",1
+M270,Ibuprofen,1
+M271,Omeprazole,1
+M272,"Vitamin C",2
+M273,Losartan,2
+M274,Amlodipine,2
+M275,"Vitamin C",1
+M276,Cetirizine,2
+M277,Azithromycin,1
+M278,Amlodipine,2
+M279,"Vitamin C",2
+M280,Ibuprofen,1
+M281,Cetirizine,1
+M282,Paracetamol,2
+M283,Omeprazole,1
+M284,"Vitamin C",1
+M285,Amlodipine,2
+M286,Amoxicillin,1
+M287,Omeprazole,1
+M288,Azithromycin,2
+M289,Cetirizine,1
+M290,Paracetamol,2
+M291,Cetirizine,1
+M292,Amlodipine,1
+M293,Metformin,1
+M294,Amlodipine,1
+M295,Ibuprofen,1
+M296,Losartan,1
+M297,Azithromycin,1
+M298,Paracetamol,1
+M299,Azithromycin,1
+M300,Ibuprofen,2
+M301,Omeprazole,1
+M302,Cetirizine,2
+M303,Azithromycin,2
+M304,Ibuprofen,1
+M305,Cetirizine,2
+M306,Metformin,2
+M307,Amoxicillin,1
+M308,Metformin,1
+M309,Cetirizine,1
+M310,Ibuprofen,2
+M311,Omeprazole,1
+M312,Losartan,1
+M313,Paracetamol,1
+M314,Ibuprofen,1
+M315,"Vitamin C",2
+M316,Cetirizine,1
+M317,Amlodipine,2
+M318,Amoxicillin,2
+M319,Omeprazole,2
+M320,"Vitamin C",1
+M321,Amlodipine,1
+M322,Metformin,1
+M323,Amoxicillin,1
+M324,"Vitamin C",1
+M325,Cetirizine,2
+M326,Paracetamol,1
+M327,Metformin,1
+M328,Azithromycin,2
+M329,Cetirizine,1
+M330,"Vitamin C",1
+M331,Losartan,2
+M332,Losartan,2
+M333,Metformin,2
+M334,Azithromycin,1
+M335,Ibuprofen,2
+M336,Metformin,1
+M337,Azithromycin,1
+M338,Omeprazole,1
+M339,Losartan,2
+M340,Azithromycin,2
+M341,Metformin,1
+M342,"Vitamin C",2
+M343,Cetirizine,2
+M344,Omeprazole,2
+M345,"Vitamin C",1
+M346,Amlodipine,1
+M347,Paracetamol,2
+M348,Omeprazole,2
+M349,Paracetamol,1
+M350,Amlodipine,1
+M351,Omeprazole,1
+M352,Azithromycin,2
+M353,Omeprazole,2
+M354,Cetirizine,2
+M355,Ibuprofen,1
+M356,"Vitamin C",1
+M357,Losartan,2
+M358,Omeprazole,2
+M359,Amlodipine,2
+M360,Amlodipine,1
+M361,Azithromycin,1
+M362,Omeprazole,1
+M363,Metformin,1
+M364,Metformin,1
+M365,Amoxicillin,2
+M366,Cetirizine,1
+M367,Omeprazole,1
+M368,Amoxicillin,2
+M369,Cetirizine,2
+M370,Amlodipine,1
+M371,"Vitamin C",1
+M372,Amoxicillin,1
+M373,Ibuprofen,1
+M374,Azithromycin,1
+M375,Ibuprofen,1
+M376,Cetirizine,1
+M377,Ibuprofen,1
+M378,Ibuprofen,1
+M379,Paracetamol,1
+M380,Amlodipine,1
+M381,Azithromycin,1
+M382,Amlodipine,2
+M383,Paracetamol,1
+M384,Omeprazole,1
+M385,Ibuprofen,1
+M386,Amlodipine,1
+M387,Paracetamol,1
+M388,Cetirizine,1
+M389,"Vitamin C",2
+M390,Amoxicillin,2
+M391,Amoxicillin,2
+M392,Ibuprofen,1
+M393,"Vitamin C",1
+M394,Amoxicillin,1
+M395,Paracetamol,1
+M396,Amoxicillin,1
+M397,Amlodipine,1
+M398,Azithromycin,2
+M399,Losartan,1
+M400,Cetirizine,1
+M401,"Vitamin C",1
+M402,Losartan,1
+M403,Amlodipine,1
+M404,Azithromycin,1
+M405,Paracetamol,2
+M406,Ibuprofen,1
+M407,Metformin,1
+M408,Cetirizine,1
+M409,"Vitamin C",1
+M410,Cetirizine,1
+M411,Amoxicillin,2
+M412,Metformin,2
+M413,Amoxicillin,1
+M414,Omeprazole,2
+M415,Amoxicillin,2
+M416,Losartan,2
+M417,Cetirizine,1
+M418,Ibuprofen,1
+M419,Omeprazole,1
+M420,Azithromycin,2
+M421,"Vitamin C",1
+M422,Omeprazole,1
+M423,Ibuprofen,1
+M424,Amlodipine,2
+M425,Losartan,1
+M426,Amlodipine,1
+M427,Amoxicillin,1
+M428,Metformin,2
+M429,Ibuprofen,2
+M430,Amlodipine,2
+M431,Metformin,2
+M432,Amoxicillin,2
+M433,Ibuprofen,1
+M434,"Vitamin C",1
+M435,Metformin,1
+M436,Losartan,2
+M437,Amoxicillin,2
+M438,Ibuprofen,1
+M439,Azithromycin,1
+M440,Amoxicillin,2
+M441,Metformin,1
+M442,Paracetamol,1
+M443,Amlodipine,1
+M444,Amoxicillin,2
+M445,Ibuprofen,1
+M446,Cetirizine,1
+M447,Amlodipine,2
+M448,"Vitamin C",1
+M449,Metformin,1
+M450,Losartan,1
+M451,Cetirizine,2
+M452,Amlodipine,2
+M453,Azithromycin,2
+M454,Azithromycin,1
+M455,Omeprazole,2
+M456,Metformin,1
+M457,Ibuprofen,1
+M458,Metformin,1
+M459,Metformin,1
+M460,Azithromycin,1
+M461,Cetirizine,2
+M462,Ibuprofen,1
+M463,Amoxicillin,1
+M464,Amlodipine,1
+M465,"Vitamin C",1
+M466,Amoxicillin,1
+M467,Cetirizine,2
+M468,Amoxicillin,1
+M469,Amoxicillin,2
+M470,Amoxicillin,1
+M471,Paracetamol,2
+M472,Paracetamol,2
+M473,Cetirizine,1
+M474,Metformin,1
+M475,"Vitamin C",1
+M476,Metformin,1
+M477,Ibuprofen,1
+M478,"Vitamin C",2
+M479,Losartan,2
+M480,Cetirizine,1
+M481,Azithromycin,1
+M482,Losartan,1
+M483,Amlodipine,1
+M484,Ibuprofen,1
+M485,Metformin,1
+M486,Cetirizine,1
+M487,"Vitamin C",1
+M488,Cetirizine,1
+M489,Omeprazole,1
+M490,Omeprazole,2
+M491,Losartan,1
+M492,Losartan,1
+M493,Azithromycin,1
+M494,Azithromycin,1
+M495,Cetirizine,2
+M496,Omeprazole,1
+M497,Omeprazole,1
+M498,Losartan,2
+M499,Amoxicillin,2
+M500,Losartan,1
+M501,Cetirizine,2
+M502,Azithromycin,2
+M503,Losartan,2
+M504,Azithromycin,1
+M505,Ibuprofen,1
+M506,Metformin,1
+M507,Amoxicillin,1
+M508,Ibuprofen,2
+M509,Cetirizine,2
+M510,Paracetamol,1
+M511,"Vitamin C",1
+M512,Metformin,1
+M513,Paracetamol,2
+M514,Amoxicillin,1
+M515,Metformin,2
+M516,Cetirizine,2
+M517,Cetirizine,1
+M518,Paracetamol,1
+M519,Paracetamol,1
+M520,Amlodipine,2
+M521,Azithromycin,2
+M522,Ibuprofen,1
+M523,Amoxicillin,2
+M524,Amlodipine,1
+M525,Cetirizine,1
+M526,"Vitamin C",2
+M527,"Vitamin C",1
+M528,Ibuprofen,1
+M529,Azithromycin,1
+M530,Metformin,1
+M531,Metformin,1
+M532,Losartan,2
+M533,Ibuprofen,1
+M534,Amlodipine,1
+M535,Paracetamol,1
+M536,Metformin,2
+M537,Azithromycin,1
+M538,Ibuprofen,1
+M539,"Vitamin C",1
+M540,Losartan,2
+M541,Amoxicillin,1
+M542,Metformin,1
+M543,Azithromycin,1
+M544,Amlodipine,1
+M545,Ibuprofen,1
+M546,"Vitamin C",1
+M547,Ibuprofen,1
+M548,Amlodipine,2
+M549,"Vitamin C",1
+M550,"Vitamin C",1
+M551,Metformin,2
+M552,Ibuprofen,1
+M553,Amlodipine,2
+M554,Omeprazole,2
+M555,Azithromycin,1
+M556,Losartan,1
+M557,Amlodipine,1
+M558,Omeprazole,1
+M559,Paracetamol,1
+M560,Ibuprofen,1
+M561,Metformin,1
+M562,"Vitamin C",2
+M563,Ibuprofen,1
+M564,Paracetamol,2
+M565,Azithromycin,2
+M566,"Vitamin C",1
+M567,Azithromycin,1
+M568,Azithromycin,2
+M569,Amlodipine,1
+M570,Omeprazole,2
+M571,Cetirizine,2
+M572,Losartan,1
+M573,Azithromycin,1
+M574,Losartan,1
+M575,Omeprazole,1
+M576,Amlodipine,1
+M577,Metformin,1
+M578,"Vitamin C",2
+M579,"Vitamin C",2
+M580,Metformin,2
+M581,Losartan,1
+M582,Cetirizine,1
+M583,Azithromycin,2
+M584,Omeprazole,1
+M585,Cetirizine,1
+M586,Metformin,1
+M587,Cetirizine,2
+M588,Metformin,1
+M589,Cetirizine,2
+M590,Metformin,1
+M591,Omeprazole,1
+M592,Azithromycin,2
+M593,Cetirizine,1
+M594,Amlodipine,2
+M595,Amoxicillin,1
+M596,Azithromycin,1
+M597,Azithromycin,1
+M598,Metformin,2
+M599,Omeprazole,2
+M600,Amlodipine,1
+M601,Ibuprofen,1
+M602,Metformin,1
+M603,Losartan,2
+M604,Omeprazole,1
+M605,Azithromycin,2
+M606,Amoxicillin,1
+M607,Amoxicillin,2
+M608,"Vitamin C",1
+M609,Paracetamol,1
+M610,Losartan,1
+M611,Losartan,2
+M612,Amlodipine,1
+M613,Losartan,1
+M614,Ibuprofen,1
+M615,Cetirizine,1
+M616,Omeprazole,1
+M617,Losartan,2
+M618,Ibuprofen,2
+M619,Omeprazole,2
+M620,Azithromycin,1
+M621,Paracetamol,1
+M622,Amlodipine,1
+M623,Amoxicillin,1
+M624,"Vitamin C",1
+M625,Cetirizine,1
+M626,Azithromycin,2
+M627,Azithromycin,1
+M628,Losartan,1
+M629,"Vitamin C",1
+M630,Ibuprofen,1
+M631,Omeprazole,1
+M632,Ibuprofen,2
+M633,Losartan,1
+M634,Ibuprofen,2
+M635,Omeprazole,1
+M636,Metformin,1
+M637,Amlodipine,2
+M638,Cetirizine,2
+M639,Omeprazole,1
+M640,Omeprazole,2
+M641,Amoxicillin,1
+M642,Ibuprofen,1
+M643,Amoxicillin,1
+M644,Ibuprofen,1
+M645,Azithromycin,2
+M646,Azithromycin,1
+M647,Azithromycin,1
+M648,Omeprazole,2
+M649,"Vitamin C",1
+M650,Amoxicillin,1
+M651,Omeprazole,1
+M652,Amlodipine,1
+M653,Paracetamol,2
+M654,Omeprazole,1
+M655,Amoxicillin,1
+M656,Cetirizine,1
+M657,"Vitamin C",2
+M658,Azithromycin,1
+M659,Cetirizine,2
+M660,Cetirizine,1
+M661,Cetirizine,1
+M662,Metformin,2
+M663,"Vitamin C",2
+M664,"Vitamin C",1
+M665,Losartan,1
+M666,Ibuprofen,2
+M667,Azithromycin,1
+M668,Cetirizine,1
+M669,"Vitamin C",2
+M670,"Vitamin C",2
+M671,Omeprazole,1
+M672,Losartan,2
+M673,"Vitamin C",1
+M674,Omeprazole,1
+M675,"Vitamin C",2
+M676,Losartan,1
+M677,Azithromycin,1
+M678,Ibuprofen,2
+M679,Omeprazole,1
+M680,Losartan,2
+M681,Cetirizine,2
+M682,Cetirizine,1
+M683,Omeprazole,1
+M684,Cetirizine,2
+M685,Amlodipine,2
+M686,"Vitamin C",1
+M687,Ibuprofen,2
+M688,Losartan,2
+M689,Cetirizine,2
+M690,Amlodipine,2
+M691,Metformin,2
+M692,Ibuprofen,2
+M693,Amlodipine,1
+M694,Paracetamol,1
+M695,"Vitamin C",2
+M696,Amoxicillin,2
+M697,Ibuprofen,1
+M698,Metformin,1
+M699,Metformin,2
+M700,"Vitamin C",1
+M701,Amoxicillin,1
+M702,Ibuprofen,1
+M703,Losartan,1
+M704,Metformin,1
+M705,Azithromycin,1
+M706,Amoxicillin,1
+M707,Azithromycin,2
+M708,Paracetamol,1
+M709,Ibuprofen,2
+M710,Paracetamol,1
+M711,Losartan,1
+M712,"Vitamin C",1
+M713,Metformin,2
+M714,Omeprazole,2
+M715,Metformin,1
+M716,Amoxicillin,1
+M717,Amoxicillin,1
+M718,Losartan,1
+M719,Paracetamol,1
+M720,"Vitamin C",2
+M721,Metformin,1
+M722,Losartan,1
+M723,Azithromycin,1
+M724,Amlodipine,1
+M725,Azithromycin,1
+M726,"Vitamin C",1
+M727,Losartan,1
+M728,Azithromycin,1
+M729,Ibuprofen,2
+M730,Cetirizine,2
+M731,Azithromycin,1
+M732,"Vitamin C",1
+M733,Metformin,1
+M734,Amoxicillin,1
+M735,Amoxicillin,1
+M736,Metformin,1
+M737,Paracetamol,2
+M738,Paracetamol,1
+M739,Azithromycin,1
+M740,Metformin,2
+M741,Cetirizine,2
+M742,Metformin,2
+M743,"Vitamin C",1
+M744,Azithromycin,2
+M745,Azithromycin,2
+M746,Azithromycin,2
+M747,Metformin,1
+M748,Ibuprofen,1
+M749,Amoxicillin,2
+M750,Amlodipine,1
+M751,Amlodipine,2
+M752,"Vitamin C",1
+M753,Omeprazole,2
+M754,Losartan,1
+M755,Omeprazole,2
+M756,Paracetamol,2
+M757,Metformin,1
+M758,Ibuprofen,1
+M759,Losartan,2
+M760,Metformin,1
+M761,"Vitamin C",2
+M762,Losartan,1
+M763,Amlodipine,1
+M764,Azithromycin,1
+M765,"Vitamin C",1
+M766,Paracetamol,1
+M767,Amoxicillin,1
+M768,Paracetamol,1
+M769,Omeprazole,2
+M770,"Vitamin C",1
+M771,Cetirizine,2
+M772,Paracetamol,1
+M773,Amoxicillin,1
+M774,Azithromycin,1
+M775,Paracetamol,2
+M776,Omeprazole,2
+M777,Losartan,1
+M778,Losartan,1
+M779,Azithromycin,1
+M780,Omeprazole,2
+M781,Omeprazole,1
+M782,Metformin,1
+M783,Omeprazole,1
+M784,Amlodipine,1
+M785,Azithromycin,1
+M786,Paracetamol,1
+M787,Cetirizine,1
+M788,Losartan,1
+M789,Cetirizine,1
+M790,Losartan,1
+M791,Amoxicillin,2
+M792,Losartan,1
+M793,Amoxicillin,2
+M794,Omeprazole,1
+M795,Ibuprofen,1
+M796,Amlodipine,1
+M797,Metformin,1
+M798,Paracetamol,1
+M799,Omeprazole,2
+M800,"Vitamin C",1
+M801,Metformin,1
+M802,Azithromycin,1
+M803,Amoxicillin,1
+M804,Amlodipine,1
+M805,Amlodipine,1
+M806,Amlodipine,1
+M807,"Vitamin C",1
+M808,Metformin,2
+M809,"Vitamin C",1
+M810,Omeprazole,2
+M811,Losartan,1
+M812,Amlodipine,1
+M813,Losartan,1
+M814,Ibuprofen,1
+M815,"Vitamin C",1
+M816,Paracetamol,1
+M817,Cetirizine,1
+M818,Ibuprofen,2
+M819,Azithromycin,1
+M820,Losartan,2
+M821,Azithromycin,1
+M822,Paracetamol,2
+M823,Azithromycin,1
+M824,Amlodipine,1
+M825,Paracetamol,2
+M826,Cetirizine,1
+M827,Amoxicillin,2
+M828,Metformin,2
+M829,Amoxicillin,1
+M830,Losartan,2
+M831,Cetirizine,1
+M832,Metformin,1
+M833,Cetirizine,1
+M834,Amlodipine,1
+M835,Ibuprofen,1
+M836,Azithromycin,1
+M837,Ibuprofen,1
+M838,Paracetamol,1
+M839,Azithromycin,2
+M840,Ibuprofen,2
+M841,Paracetamol,2
+M842,Omeprazole,2
+M843,Omeprazole,1
+M844,"Vitamin C",1
+M845,Amoxicillin,1
+M846,Omeprazole,1
+M847,Amoxicillin,1
+M848,Cetirizine,1
+M849,Amlodipine,1
+M850,Ibuprofen,1
+M851,Paracetamol,1
+M852,Metformin,1
+M853,"Vitamin C",1
+M854,Azithromycin,1
+M855,Omeprazole,1
+M856,Amoxicillin,1
+M857,Azithromycin,1
+M858,Ibuprofen,1
+M859,Losartan,1
+M860,Ibuprofen,1
+M861,Amoxicillin,2
+M862,Ibuprofen,1
+M863,Losartan,1
+M864,Metformin,1
+M865,Cetirizine,2
+M866,Paracetamol,1
+M867,Losartan,2
+M868,Ibuprofen,1
+M869,Ibuprofen,1
+M870,Paracetamol,1
+M871,Amoxicillin,1
+M872,Ibuprofen,2
+M873,Cetirizine,1
+M874,"Vitamin C",1
+M875,Amlodipine,2
+M876,Paracetamol,2
+M877,"Vitamin C",1
+M878,Omeprazole,2
+M879,Cetirizine,2
+M880,Omeprazole,1
+M881,Azithromycin,2
+M882,Ibuprofen,1
+M883,Amoxicillin,1
+M884,Losartan,1
+M885,Amoxicillin,2
+M886,"Vitamin C",1
+M887,Ibuprofen,1
+M888,Metformin,1
+M889,Azithromycin,1
+M890,Azithromycin,1
+M891,Ibuprofen,2
+M892,Omeprazole,1
+M893,Cetirizine,1
+M894,Losartan,1
+M895,Losartan,2
+M896,Cetirizine,1
+M897,Amlodipine,1
+M898,Amlodipine,2
+M899,Paracetamol,1
+M900,Amoxicillin,2
+M901,Omeprazole,1
+M902,Omeprazole,1
+M903,Metformin,2
+M904,Amoxicillin,1
+M905,Paracetamol,2
+M906,Cetirizine,1
+M907,"Vitamin C",2
+M908,Amlodipine,1
+M909,Metformin,2
+M910,Amlodipine,1
+M911,Omeprazole,1
+M912,Amoxicillin,1
+M913,Metformin,2
+M914,Metformin,2
+M915,Paracetamol,1
+M916,Azithromycin,1
+M917,Amlodipine,2
+M918,"Vitamin C",2
+M919,Ibuprofen,2
+M920,Losartan,1
+M921,Metformin,1
+M922,Amlodipine,1
+M923,Losartan,2
+M924,Ibuprofen,2
+M925,Omeprazole,1
+M926,Omeprazole,2
+M927,Losartan,1
+M928,Azithromycin,2
+M929,Paracetamol,1
+M930,Omeprazole,1
+M931,Amoxicillin,1
+M932,Paracetamol,1
+M933,Cetirizine,1
+M934,Losartan,1
+M935,Amoxicillin,2
+M936,"Vitamin C",2
+M937,Losartan,2
+M938,Cetirizine,1
+M939,Losartan,2
+M940,"Vitamin C",1
+M941,Omeprazole,1
+M942,"Vitamin C",1
+M943,"Vitamin C",2
+M944,Amlodipine,1
+M945,Ibuprofen,2
+M946,"Vitamin C",2
+M947,Azithromycin,1
+M948,Cetirizine,2
+M949,Cetirizine,2
+M950,Losartan,1
+M951,Paracetamol,1
+M952,Ibuprofen,2
+M953,Ibuprofen,1
+M954,Cetirizine,2
+M955,Cetirizine,2
+M956,Paracetamol,2
+M957,Losartan,1
+M958,Omeprazole,2
+M959,Amlodipine,1
+M960,Ibuprofen,1
+M961,Cetirizine,1
+M962,Ibuprofen,1
+M963,Metformin,1
+M964,Amoxicillin,2
+M965,Ibuprofen,2
+M966,Azithromycin,2
+M967,Amoxicillin,1
+M968,Ibuprofen,1
+M969,Amoxicillin,1
+M970,Azithromycin,2
+M971,Amoxicillin,1
+M972,Cetirizine,1
+M973,Azithromycin,1
+M974,Omeprazole,1
+M975,Metformin,2
+M976,Paracetamol,1
+M977,Amlodipine,1
+M978,Omeprazole,1
+M979,Amoxicillin,1
+M980,Metformin,1
+M981,Metformin,1
+M982,Cetirizine,2
+M983,Losartan,2
+M984,Ibuprofen,1
+M985,Ibuprofen,2
+M986,"Vitamin C",2
+M987,Paracetamol,2
+M988,Losartan,1
+M989,Amlodipine,1
+M990,Omeprazole,2
+M991,Losartan,1
+M992,Metformin,1
+M993,Omeprazole,1
+M994,Ibuprofen,1
+M995,Amlodipine,1
+M996,Cetirizine,2
+M997,Ibuprofen,1
+M998,"Vitamin C",2
+M999,Losartan,1
