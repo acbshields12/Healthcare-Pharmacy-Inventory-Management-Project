@@ -6,10 +6,10 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 ---
 
 ## 🎯 Objectives
-*Evaluate overall sales and revenue performance
-*Monitor inventory levels and stock availability
-*Identify medications at risk of stockout or expiration
-*Build an interactive dashboard for data-driven decision-making
+* Evaluate overall sales and revenue performance
+* Monitor inventory levels and stock availability
+* Identify medications at risk of stockout or expiration
+* Build an interactive dashboard for data-driven decision-making
 
 ---
 
@@ -23,31 +23,31 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 ## 🗄️ Dataset Structure
 
 📦 meds_data  
-*medication_id  
-*medication_name  
-*category  
-*stock_quantity  
-*reorder_level  
-*unit_price  
-*expiry_date  
+* medication_id  
+* medication_name  
+* category  
+* stock_quantity  
+* reorder_level  
+* unit_price  
+* expiry_date  
 
 💊 sales_data  
-*sale_id  
-*medication_id  
-*quantity_sold  
-*sale_date  
+* sale_id  
+* medication_id  
+* quantity_sold  
+* sale_date  
 
 ---
 
 ## 📊 Key Performance Indicators (KPIs)  
-💰 Total Revenue  
-📦 Total Quantity Sold  
-🧮 Inventory Value  
-⚠️ Low Stock Count  
-🚨 Out of Stock  
-⏳ Expiring Soon  
-📊 Average Revenue per Medication  
-🥇 Top Selling Medication  
+* 💰 Total Revenue  
+* 📦 Total Quantity Sold  
+* 🧮 Inventory Value  
+* ⚠️ Low Stock Count  
+* 🚨 Out of Stock  
+* ⏳ Expiring Soon  
+* 📊 Average Revenue per Medication  
+* 🥇 Top Selling Medication  
 
 ---
 
