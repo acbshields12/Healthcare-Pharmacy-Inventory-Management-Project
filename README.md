@@ -22,32 +22,32 @@ This project analyzes pharmacy inventory and sales data to generate actionable i
 
 ## 🗄️ Dataset Structure
 
-📦 meds_data
-*medication_id
-*medication_name
-*category
-*stock_quantity
-*reorder_level
-*unit_price
-*expiry_date
+📦 meds_data  
+*medication_id  
+*medication_name  
+*category  
+*stock_quantity  
+*reorder_level  
+*unit_price  
+*expiry_date  
 
-💊 sales_data
-*sale_id
-*medication_id
-*quantity_sold
-*sale_date
+💊 sales_data  
+*sale_id  
+*medication_id  
+*quantity_sold  
+*sale_date  
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
-💰 Total Revenue
-📦 Total Quantity Sold
-🧮 Inventory Value
-⚠️ Low Stock Count
-🚨 Out of Stock
-⏳ Expiring Soon
-📊 Average Revenue per Medication
-🥇 Top Selling Medication
+## 📊 Key Performance Indicators (KPIs)  
+💰 Total Revenue  
+📦 Total Quantity Sold  
+🧮 Inventory Value  
+⚠️ Low Stock Count  
+🚨 Out of Stock  
+⏳ Expiring Soon  
+📊 Average Revenue per Medication  
+🥇 Top Selling Medication  
 
 ---
 
