@@ -1,0 +1,1001 @@
+﻿medication_id,medication_name,category,supplier,stock_quantity,reorder_level,unit_price,expiry_date,purchase_date,inventory_value,stock_status,days_to_expire,expiry_status
+M001,Paracetamol,Painkiller,HealthCorp,88,20,1.92,3/18/2027,12/17/2025,168.96,In Stock,345,Safe
+M002,Paracetamol,Painkiller,MedSupply Co,75,28,1.82,1/30/2027,11/16/2025,136.5,In Stock,298,Safe
+M003,Metformin,Diabetes,MedSupply Co,95,54,1.19,12/29/2026,2/7/2026,113.05,In Stock,266,Safe
+M004,Ibuprofen,Painkiller,PharmaPlus,154,28,1.69,11/8/2026,12/27/2025,260.26,In Stock,215,Safe
+M005,Vitamin C,Supplement,HealthCorp,44,75,0.6,2/27/2027,12/31/2025,26.4,Low Stock,326,Safe
+M006,Losartan,Hypertension,HealthCorp,142,62,0.82,2/2/2027,1/11/2026,116.44,In Stock,301,Safe
+M007,Vitamin C,Supplement,PharmaPlus,46,64,1.89,7/12/2026,10/29/2025,86.94,Low Stock,96,Safe
+M008,Azithromycin,Antibiotic,PharmaPlus,56,46,1.55,7/5/2026,10/18/2025,86.8,In Stock,89,Safe
+M009,Amoxicillin,Antibiotic,MedSupply Co,186,90,1.57,8/12/2026,3/9/2026,292.02,In Stock,127,Safe
+M010,Metformin,Diabetes,MedSupply Co,65,97,0.63,1/25/2027,12/19/2025,40.95,Low Stock,293,Safe
+M011,Azithromycin,Antibiotic,GlobalMed,37,23,1.06,10/28/2026,11/21/2025,39.22,In Stock,204,Safe
+M012,Losartan,Hypertension,HealthCorp,44,99,1.88,9/29/2026,2/23/2026,82.72,Low Stock,175,Safe
+M013,Cetirizine,Antihistamine,GlobalMed,160,39,1.37,10/10/2026,1/4/2026,219.2,In Stock,186,Safe
+M014,Ibuprofen,Painkiller,PharmaPlus,63,77,1.62,10/8/2026,1/1/2026,102.06,Low Stock,184,Safe
+M015,Vitamin C,Supplement,PharmaPlus,60,92,1.34,2/11/2027,1/30/2026,80.4,Low Stock,310,Safe
+M016,Cetirizine,Antihistamine,GlobalMed,83,83,1,6/22/2026,12/13/2025,83,In Stock,76,Safe
+M017,Azithromycin,Antibiotic,PharmaPlus,148,40,1.04,10/18/2026,4/6/2026,153.92,In Stock,194,Safe
+M018,Amlodipine,Hypertension,GlobalMed,54,33,0.63,8/9/2026,2/19/2026,34.02,In Stock,124,Safe
+M019,Cetirizine,Antihistamine,MedSupply Co,69,73,1.18,8/26/2026,2/7/2026,81.42,Low Stock,141,Safe
+M020,Vitamin C,Supplement,HealthCorp,32,24,1.87,8/24/2026,3/6/2026,59.84,In Stock,139,Safe
+M021,Paracetamol,Painkiller,MedSupply Co,173,88,1.95,10/23/2026,3/3/2026,337.35,In Stock,199,Safe
+M022,Amlodipine,Hypertension,GlobalMed,79,51,1.04,6/19/2026,3/30/2026,82.16,In Stock,73,Safe
+M023,Amoxicillin,Antibiotic,MedSupply Co,133,69,1.29,11/10/2026,3/22/2026,171.57,In Stock,217,Safe
+M024,Amlodipine,Hypertension,HealthCorp,72,85,0.73,11/1/2026,1/14/2026,52.56,Low Stock,208,Safe
+M025,Metformin,Diabetes,PharmaPlus,36,35,1.46,12/3/2026,10/30/2025,52.56,In Stock,240,Safe
+M026,Losartan,Hypertension,PharmaPlus,110,62,1.17,8/29/2026,4/6/2026,128.7,In Stock,144,Safe
+M027,Amoxicillin,Antibiotic,HealthCorp,136,83,1.47,9/7/2026,10/26/2025,199.92,In Stock,153,Safe
+M028,Paracetamol,Painkiller,PharmaPlus,171,22,1.54,1/18/2027,11/1/2025,263.34,In Stock,286,Safe
+M029,Vitamin C,Supplement,PharmaPlus,35,55,0.86,2/3/2027,11/11/2025,30.1,Low Stock,302,Safe
+M030,Ibuprofen,Painkiller,HealthCorp,126,43,1.41,7/2/2026,12/31/2025,177.66,In Stock,86,Safe
+M031,Azithromycin,Antibiotic,HealthCorp,41,34,1.1,7/29/2026,1/28/2026,45.1,In Stock,113,Safe
+M032,Metformin,Diabetes,GlobalMed,25,86,1.22,8/4/2026,1/28/2026,30.5,Low Stock,119,Safe
+M033,Amoxicillin,Antibiotic,PharmaPlus,3,39,1.62,11/9/2026,12/23/2025,4.86,Low Stock,216,Safe
+M034,Metformin,Diabetes,HealthCorp,180,69,0.53,9/23/2026,3/24/2026,95.4,In Stock,169,Safe
+M035,Metformin,Diabetes,GlobalMed,90,67,0.7,1/13/2027,3/23/2026,63,In Stock,281,Safe
+M036,Cetirizine,Antihistamine,PharmaPlus,110,61,0.92,9/10/2026,11/20/2025,101.2,In Stock,156,Safe
+M037,Vitamin C,Supplement,GlobalMed,160,25,1.96,2/11/2027,2/17/2026,313.6,In Stock,310,Safe
+M038,Cetirizine,Antihistamine,GlobalMed,38,42,0.68,1/21/2027,3/22/2026,25.84,Low Stock,289,Safe
+M039,Cetirizine,Antihistamine,MedSupply Co,53,35,1.33,11/5/2026,11/7/2025,70.49,In Stock,212,Safe
+M040,Paracetamol,Painkiller,HealthCorp,11,86,1.73,11/11/2026,1/6/2026,19.03,Low Stock,218,Safe
+M041,Ibuprofen,Painkiller,MedSupply Co,102,56,1.09,11/26/2026,10/20/2025,111.18,In Stock,233,Safe
+M042,Omeprazole,Antacid,HealthCorp,65,55,1.87,7/14/2026,1/7/2026,121.55,In Stock,98,Safe
+M043,Losartan,Hypertension,PharmaPlus,47,91,1.02,6/14/2026,1/30/2026,47.94,Low Stock,68,Safe
+M044,Metformin,Diabetes,PharmaPlus,48,56,1.3,1/27/2027,12/23/2025,62.4,Low Stock,295,Safe
+M045,Cetirizine,Antihistamine,HealthCorp,111,26,0.76,7/15/2026,1/21/2026,84.36,In Stock,99,Safe
+M046,Amlodipine,Hypertension,GlobalMed,25,64,0.7,9/29/2026,10/9/2025,17.5,Low Stock,175,Safe
+M047,Azithromycin,Antibiotic,HealthCorp,37,64,0.68,6/25/2026,4/6/2026,25.16,Low Stock,79,Safe
+M048,Azithromycin,Antibiotic,HealthCorp,2,64,1.5,12/17/2026,10/9/2025,3,Low Stock,254,Safe
+M049,Cetirizine,Antihistamine,MedSupply Co,179,78,0.91,7/6/2026,12/26/2025,162.89,In Stock,90,Safe
+M050,Losartan,Hypertension,MedSupply Co,68,92,1.94,11/12/2026,2/18/2026,131.92,Low Stock,219,Safe
+M051,Amlodipine,Hypertension,PharmaPlus,173,28,0.85,2/28/2027,3/21/2026,147.05,In Stock,327,Safe
+M052,Azithromycin,Antibiotic,PharmaPlus,121,59,1.87,4/3/2027,12/31/2025,226.27,In Stock,361,Safe
+M053,Ibuprofen,Painkiller,HealthCorp,12,59,1.26,11/17/2026,4/6/2026,15.12,Low Stock,224,Safe
+M054,Paracetamol,Painkiller,GlobalMed,43,82,0.94,7/6/2026,2/27/2026,40.42,Low Stock,90,Safe
+M055,Vitamin C,Supplement,GlobalMed,195,42,2,12/28/2026,1/15/2026,390,In Stock,265,Safe
+M056,Losartan,Hypertension,PharmaPlus,192,35,1.39,9/1/2026,12/13/2025,266.88,In Stock,147,Safe
+M057,Cetirizine,Antihistamine,MedSupply Co,178,31,0.77,9/10/2026,2/4/2026,137.06,In Stock,156,Safe
+M058,Paracetamol,Painkiller,MedSupply Co,187,88,0.81,9/22/2026,10/14/2025,151.47,In Stock,168,Safe
+M059,Amlodipine,Hypertension,HealthCorp,54,85,1.29,8/9/2026,1/21/2026,69.66,Low Stock,124,Safe
+M060,Amlodipine,Hypertension,PharmaPlus,135,69,0.7,5/28/2026,11/12/2025,94.5,In Stock,51,Safe
+M061,Cetirizine,Antihistamine,PharmaPlus,191,82,1.72,12/17/2026,1/25/2026,328.52,In Stock,254,Safe
+M062,Losartan,Hypertension,PharmaPlus,182,83,0.7,5/24/2026,4/3/2026,127.4,In Stock,47,Safe
+M063,Cetirizine,Antihistamine,HealthCorp,76,22,1.38,6/18/2026,12/30/2025,104.88,In Stock,72,Safe
+M064,Ibuprofen,Painkiller,HealthCorp,117,89,1.55,1/4/2027,12/18/2025,181.35,In Stock,272,Safe
+M065,Omeprazole,Antacid,GlobalMed,62,86,0.51,9/10/2026,3/26/2026,31.62,Low Stock,156,Safe
+M066,Losartan,Hypertension,MedSupply Co,187,80,1.98,2/20/2027,1/17/2026,370.26,In Stock,319,Safe
+M067,Paracetamol,Painkiller,MedSupply Co,124,83,1.43,2/9/2027,2/25/2026,177.32,In Stock,308,Safe
+M068,Metformin,Diabetes,PharmaPlus,134,22,0.63,12/30/2026,1/11/2026,84.42,In Stock,267,Safe
+M069,Amoxicillin,Antibiotic,GlobalMed,68,49,1.87,8/24/2026,12/9/2025,127.16,In Stock,139,Safe
+M070,Amlodipine,Hypertension,GlobalMed,14,66,0.66,11/17/2026,4/3/2026,9.24,Low Stock,224,Safe
+M071,Paracetamol,Painkiller,HealthCorp,66,32,0.86,6/20/2026,4/5/2026,56.76,In Stock,74,Safe
+M072,Omeprazole,Antacid,PharmaPlus,127,88,1.5,3/18/2027,12/27/2025,190.5,In Stock,345,Safe
+M073,Paracetamol,Painkiller,PharmaPlus,197,60,0.64,6/27/2026,3/1/2026,126.08,In Stock,81,Safe
+M074,Ibuprofen,Painkiller,PharmaPlus,83,44,1.85,3/10/2027,10/21/2025,153.55,In Stock,337,Safe
+M075,Losartan,Hypertension,HealthCorp,87,37,0.61,3/2/2027,2/12/2026,53.07,In Stock,329,Safe
+M076,Azithromycin,Antibiotic,GlobalMed,97,27,0.86,1/13/2027,12/26/2025,83.42,In Stock,281,Safe
+M077,Vitamin C,Supplement,PharmaPlus,74,74,0.62,3/9/2027,3/12/2026,45.88,In Stock,336,Safe
+M078,Amoxicillin,Antibiotic,MedSupply Co,158,47,1.94,9/22/2026,12/16/2025,306.52,In Stock,168,Safe
+M079,Vitamin C,Supplement,PharmaPlus,141,37,0.67,5/24/2026,11/5/2025,94.47,In Stock,47,Safe
+M080,Vitamin C,Supplement,MedSupply Co,174,97,1.69,9/30/2026,12/22/2025,294.06,In Stock,176,Safe
+M081,Azithromycin,Antibiotic,GlobalMed,109,41,0.64,8/23/2026,3/26/2026,69.76,In Stock,138,Safe
+M082,Azithromycin,Antibiotic,GlobalMed,176,40,1.32,5/25/2026,2/12/2026,232.32,In Stock,48,Safe
+M083,Azithromycin,Antibiotic,PharmaPlus,44,50,0.64,5/20/2026,12/29/2025,28.16,Low Stock,43,Safe
+M084,Amoxicillin,Antibiotic,HealthCorp,12,56,1.3,6/30/2026,10/18/2025,15.6,Low Stock,84,Safe
+M085,Vitamin C,Supplement,MedSupply Co,108,38,0.52,10/22/2026,1/12/2026,56.16,In Stock,198,Safe
+M086,Azithromycin,Antibiotic,MedSupply Co,36,99,0.51,8/23/2026,11/14/2025,18.36,Low Stock,138,Safe
+M087,Amoxicillin,Antibiotic,HealthCorp,51,79,1.18,8/6/2026,3/30/2026,60.18,Low Stock,121,Safe
+M088,Losartan,Hypertension,GlobalMed,60,91,1.28,10/29/2026,1/23/2026,76.8,Low Stock,205,Safe
+M089,Azithromycin,Antibiotic,MedSupply Co,182,59,0.51,4/7/2027,3/4/2026,92.82,In Stock,365,Safe
+M090,Vitamin C,Supplement,MedSupply Co,70,52,1.8,2/7/2027,11/7/2025,126,In Stock,306,Safe
+M091,Omeprazole,Antacid,HealthCorp,174,87,0.84,12/12/2026,12/2/2025,146.16,In Stock,249,Safe
+M092,Amoxicillin,Antibiotic,GlobalMed,167,54,1.79,11/25/2026,3/26/2026,298.93,In Stock,232,Safe
+M093,Azithromycin,Antibiotic,PharmaPlus,73,37,0.54,1/27/2027,11/11/2025,39.42,In Stock,295,Safe
+M094,Amlodipine,Hypertension,MedSupply Co,48,39,1.16,8/1/2026,3/20/2026,55.68,In Stock,116,Safe
+M095,Ibuprofen,Painkiller,GlobalMed,9,53,1.66,3/21/2027,3/1/2026,14.94,Low Stock,348,Safe
+M096,Azithromycin,Antibiotic,GlobalMed,138,50,0.83,3/22/2027,10/30/2025,114.54,In Stock,349,Safe
+M097,Vitamin C,Supplement,GlobalMed,43,98,1.79,11/16/2026,12/29/2025,76.97,Low Stock,223,Safe
+M098,Ibuprofen,Painkiller,GlobalMed,170,89,1.45,9/1/2026,2/4/2026,246.5,In Stock,147,Safe
+M099,Amoxicillin,Antibiotic,MedSupply Co,35,90,1.5,10/24/2026,11/13/2025,52.5,Low Stock,200,Safe
+M100,Metformin,Diabetes,MedSupply Co,78,86,1.17,6/26/2026,11/16/2025,91.26,Low Stock,80,Safe
+M101,Amoxicillin,Antibiotic,HealthCorp,178,77,0.75,12/30/2026,1/10/2026,133.5,In Stock,267,Safe
+M102,Vitamin C,Supplement,GlobalMed,166,20,1.09,7/8/2026,3/7/2026,180.94,In Stock,92,Safe
+M103,Losartan,Hypertension,PharmaPlus,45,79,0.79,8/1/2026,1/5/2026,35.55,Low Stock,116,Safe
+M104,Losartan,Hypertension,MedSupply Co,135,48,1.89,10/16/2026,12/23/2025,255.15,In Stock,192,Safe
+M105,Ibuprofen,Painkiller,PharmaPlus,36,42,1.16,9/29/2026,2/4/2026,41.76,Low Stock,175,Safe
+M106,Vitamin C,Supplement,HealthCorp,19,85,1.36,4/5/2027,2/7/2026,25.84,Low Stock,363,Safe
+M107,Ibuprofen,Painkiller,HealthCorp,36,40,1.32,7/23/2026,3/5/2026,47.52,Low Stock,107,Safe
+M108,Cetirizine,Antihistamine,GlobalMed,93,53,1.4,7/3/2026,10/31/2025,130.2,In Stock,87,Safe
+M109,Paracetamol,Painkiller,MedSupply Co,47,70,1.75,10/22/2026,12/13/2025,82.25,Low Stock,198,Safe
+M110,Omeprazole,Antacid,MedSupply Co,145,25,1.33,12/24/2026,1/18/2026,192.85,In Stock,261,Safe
+M111,Vitamin C,Supplement,PharmaPlus,197,39,1.86,9/20/2026,3/5/2026,366.42,In Stock,166,Safe
+M112,Ibuprofen,Painkiller,GlobalMed,132,77,1.76,7/28/2026,10/31/2025,232.32,In Stock,112,Safe
+M113,Amoxicillin,Antibiotic,GlobalMed,16,83,0.56,11/3/2026,2/15/2026,8.96,Low Stock,210,Safe
+M114,Metformin,Diabetes,HealthCorp,161,46,1.66,3/18/2027,12/5/2025,267.26,In Stock,345,Safe
+M115,Paracetamol,Painkiller,MedSupply Co,150,48,1.18,1/14/2027,3/9/2026,177,In Stock,282,Safe
+M116,Cetirizine,Antihistamine,MedSupply Co,1,97,1.77,12/22/2026,2/19/2026,1.77,Low Stock,259,Safe
+M117,Omeprazole,Antacid,GlobalMed,28,80,1.18,3/13/2027,3/25/2026,33.04,Low Stock,340,Safe
+M118,Ibuprofen,Painkiller,HealthCorp,163,98,0.6,8/20/2026,11/5/2025,97.8,In Stock,135,Safe
+M119,Omeprazole,Antacid,HealthCorp,80,78,1.56,12/21/2026,3/15/2026,124.8,In Stock,258,Safe
+M120,Azithromycin,Antibiotic,GlobalMed,150,78,1.46,12/5/2026,11/22/2025,219,In Stock,242,Safe
+M121,Omeprazole,Antacid,PharmaPlus,75,99,1.75,9/12/2026,2/3/2026,131.25,Low Stock,158,Safe
+M122,Omeprazole,Antacid,MedSupply Co,174,27,1.31,10/24/2026,12/22/2025,227.94,In Stock,200,Safe
+M123,Amoxicillin,Antibiotic,MedSupply Co,45,35,0.72,10/16/2026,3/14/2026,32.4,In Stock,192,Safe
+M124,Losartan,Hypertension,GlobalMed,56,87,1.67,3/30/2027,12/14/2025,93.52,Low Stock,357,Safe
+M125,Amlodipine,Hypertension,HealthCorp,150,72,0.9,7/7/2026,10/21/2025,135,In Stock,91,Safe
+M126,Losartan,Hypertension,GlobalMed,180,87,0.8,8/3/2026,1/20/2026,144,In Stock,118,Safe
+M127,Azithromycin,Antibiotic,PharmaPlus,195,71,1.56,7/10/2026,1/2/2026,304.2,In Stock,94,Safe
+M128,Azithromycin,Antibiotic,GlobalMed,188,39,1.33,6/21/2026,11/19/2025,250.04,In Stock,75,Safe
+M129,Azithromycin,Antibiotic,HealthCorp,21,73,1.55,1/10/2027,3/4/2026,32.55,Low Stock,278,Safe
+M130,Amoxicillin,Antibiotic,HealthCorp,76,66,1.76,7/15/2026,4/1/2026,133.76,In Stock,99,Safe
+M131,Amlodipine,Hypertension,PharmaPlus,86,49,0.81,10/13/2026,10/17/2025,69.66,In Stock,189,Safe
+M132,Amoxicillin,Antibiotic,HealthCorp,115,66,1.02,8/7/2026,3/9/2026,117.3,In Stock,122,Safe
+M133,Azithromycin,Antibiotic,GlobalMed,22,72,0.95,2/17/2027,10/24/2025,20.9,Low Stock,316,Safe
+M134,Amlodipine,Hypertension,GlobalMed,84,99,1.2,5/10/2026,10/30/2025,100.8,Low Stock,33,Safe
+M135,Metformin,Diabetes,GlobalMed,31,20,1.46,6/14/2026,10/23/2025,45.26,In Stock,68,Safe
+M136,Paracetamol,Painkiller,HealthCorp,127,64,0.74,8/25/2026,2/6/2026,93.98,In Stock,140,Safe
+M137,Cetirizine,Antihistamine,GlobalMed,177,27,0.99,7/29/2026,1/18/2026,175.23,In Stock,113,Safe
+M138,Amoxicillin,Antibiotic,PharmaPlus,3,44,0.5,5/26/2026,11/11/2025,1.5,Low Stock,49,Safe
+M139,Losartan,Hypertension,HealthCorp,106,38,1.68,6/12/2026,12/17/2025,178.08,In Stock,66,Safe
+M140,Amoxicillin,Antibiotic,GlobalMed,27,37,1.09,3/31/2027,11/29/2025,29.43,Low Stock,358,Safe
+M141,Cetirizine,Antihistamine,GlobalMed,79,33,0.97,8/16/2026,10/18/2025,76.63,In Stock,131,Safe
+M142,Vitamin C,Supplement,GlobalMed,165,71,1.32,7/29/2026,11/13/2025,217.8,In Stock,113,Safe
+M143,Azithromycin,Antibiotic,MedSupply Co,45,81,1.14,8/27/2026,10/31/2025,51.3,Low Stock,142,Safe
+M144,Metformin,Diabetes,PharmaPlus,171,89,0.94,10/18/2026,11/1/2025,160.74,In Stock,194,Safe
+M145,Azithromycin,Antibiotic,PharmaPlus,89,74,1.42,10/20/2026,3/24/2026,126.38,In Stock,196,Safe
+M146,Cetirizine,Antihistamine,PharmaPlus,66,51,1.6,10/25/2026,12/14/2025,105.6,In Stock,201,Safe
+M147,Losartan,Hypertension,HealthCorp,21,97,1.19,10/28/2026,3/15/2026,24.99,Low Stock,204,Safe
+M148,Cetirizine,Antihistamine,HealthCorp,136,34,1.56,9/12/2026,11/18/2025,212.16,In Stock,158,Safe
+M149,Paracetamol,Painkiller,GlobalMed,69,87,0.64,12/20/2026,3/21/2026,44.16,Low Stock,257,Safe
+M150,Metformin,Diabetes,HealthCorp,40,39,0.79,10/9/2026,1/10/2026,31.6,In Stock,185,Safe
+M151,Paracetamol,Painkiller,PharmaPlus,107,71,0.71,4/4/2027,1/23/2026,75.97,In Stock,362,Safe
+M152,Cetirizine,Antihistamine,MedSupply Co,161,66,1.62,1/17/2027,2/2/2026,260.82,In Stock,285,Safe
+M153,Vitamin C,Supplement,MedSupply Co,38,94,0.52,7/5/2026,2/28/2026,19.76,Low Stock,89,Safe
+M154,Amlodipine,Hypertension,GlobalMed,167,92,0.71,7/18/2026,2/27/2026,118.57,In Stock,102,Safe
+M155,Cetirizine,Antihistamine,GlobalMed,38,79,1.57,2/9/2027,3/13/2026,59.66,Low Stock,308,Safe
+M156,Amoxicillin,Antibiotic,PharmaPlus,168,100,1.36,8/7/2026,3/10/2026,228.48,In Stock,122,Safe
+M157,Omeprazole,Antacid,HealthCorp,79,64,1.77,3/3/2027,1/28/2026,139.83,In Stock,330,Safe
+M158,Ibuprofen,Painkiller,GlobalMed,155,89,1.01,2/4/2027,2/28/2026,156.55,In Stock,303,Safe
+M159,Losartan,Hypertension,PharmaPlus,134,59,1.25,1/26/2027,11/28/2025,167.5,In Stock,294,Safe
+M160,Losartan,Hypertension,GlobalMed,67,82,0.92,6/27/2026,2/18/2026,61.64,Low Stock,81,Safe
+M161,Amlodipine,Hypertension,HealthCorp,197,76,1.33,2/16/2027,2/10/2026,262.01,In Stock,315,Safe
+M162,Ibuprofen,Painkiller,MedSupply Co,179,87,1.19,6/17/2026,3/12/2026,213.01,In Stock,71,Safe
+M163,Amoxicillin,Antibiotic,PharmaPlus,121,21,1.98,6/12/2026,1/26/2026,239.58,In Stock,66,Safe
+M164,Losartan,Hypertension,HealthCorp,86,43,1.91,9/5/2026,2/23/2026,164.26,In Stock,151,Safe
+M165,Ibuprofen,Painkiller,MedSupply Co,55,26,0.92,1/9/2027,3/5/2026,50.6,In Stock,277,Safe
+M166,Amoxicillin,Antibiotic,MedSupply Co,59,22,0.88,12/1/2026,2/20/2026,51.92,In Stock,238,Safe
+M167,Cetirizine,Antihistamine,MedSupply Co,94,31,0.58,9/29/2026,10/23/2025,54.52,In Stock,175,Safe
+M168,Cetirizine,Antihistamine,PharmaPlus,167,84,0.93,10/7/2026,1/6/2026,155.31,In Stock,183,Safe
+M169,Omeprazole,Antacid,MedSupply Co,93,33,0.59,3/16/2027,2/21/2026,54.87,In Stock,343,Safe
+M170,Ibuprofen,Painkiller,PharmaPlus,138,40,0.87,1/21/2027,12/29/2025,120.06,In Stock,289,Safe
+M171,Ibuprofen,Painkiller,GlobalMed,191,60,1.68,3/13/2027,3/8/2026,320.88,In Stock,340,Safe
+M172,Cetirizine,Antihistamine,MedSupply Co,31,20,0.61,8/7/2026,11/28/2025,18.91,In Stock,122,Safe
+M173,Losartan,Hypertension,HealthCorp,95,31,1.12,10/11/2026,2/7/2026,106.4,In Stock,187,Safe
+M174,Ibuprofen,Painkiller,HealthCorp,72,36,1.38,5/15/2026,2/22/2026,99.36,In Stock,38,Safe
+M175,Losartan,Hypertension,MedSupply Co,80,24,0.64,1/2/2027,11/22/2025,51.2,In Stock,270,Safe
+M176,Omeprazole,Antacid,MedSupply Co,55,29,1.43,3/27/2027,3/7/2026,78.65,In Stock,354,Safe
+M177,Vitamin C,Supplement,HealthCorp,144,40,0.92,1/18/2027,1/22/2026,132.48,In Stock,286,Safe
+M178,Amlodipine,Hypertension,GlobalMed,49,72,0.77,3/14/2027,12/18/2025,37.73,Low Stock,341,Safe
+M179,Vitamin C,Supplement,GlobalMed,165,22,0.54,5/8/2026,1/17/2026,89.1,In Stock,31,Safe
+M180,Ibuprofen,Painkiller,HealthCorp,31,84,1.75,3/10/2027,1/14/2026,54.25,Low Stock,337,Safe
+M181,Paracetamol,Painkiller,MedSupply Co,33,52,0.91,1/2/2027,11/15/2025,30.03,Low Stock,270,Safe
+M182,Vitamin C,Supplement,MedSupply Co,44,34,1.2,1/10/2027,2/14/2026,52.8,In Stock,278,Safe
+M183,Paracetamol,Painkiller,MedSupply Co,174,64,1.72,11/8/2026,2/27/2026,299.28,In Stock,215,Safe
+M184,Paracetamol,Painkiller,MedSupply Co,70,73,1.96,2/1/2027,2/15/2026,137.2,Low Stock,300,Safe
+M185,Omeprazole,Antacid,GlobalMed,112,99,1.57,10/2/2026,3/9/2026,175.84,In Stock,178,Safe
+M186,Omeprazole,Antacid,PharmaPlus,153,24,1.29,10/31/2026,1/25/2026,197.37,In Stock,207,Safe
+M187,Cetirizine,Antihistamine,PharmaPlus,125,92,1.12,7/29/2026,1/12/2026,140,In Stock,113,Safe
+M188,Metformin,Diabetes,GlobalMed,69,82,0.61,1/25/2027,12/3/2025,42.09,Low Stock,293,Safe
+M189,Vitamin C,Supplement,PharmaPlus,137,67,1.22,8/14/2026,11/8/2025,167.14,In Stock,129,Safe
+M190,Amoxicillin,Antibiotic,HealthCorp,166,74,0.98,6/7/2026,2/19/2026,162.68,In Stock,61,Safe
+M191,Paracetamol,Painkiller,PharmaPlus,59,41,1.4,10/5/2026,3/24/2026,82.6,In Stock,181,Safe
+M192,Cetirizine,Antihistamine,MedSupply Co,21,57,1.36,9/14/2026,12/4/2025,28.56,Low Stock,160,Safe
+M193,Ibuprofen,Painkiller,MedSupply Co,126,68,1.7,6/17/2026,12/2/2025,214.2,In Stock,71,Safe
+M194,Omeprazole,Antacid,HealthCorp,50,20,0.51,12/15/2026,2/9/2026,25.5,In Stock,252,Safe
+M195,Metformin,Diabetes,PharmaPlus,95,87,1.21,5/8/2026,10/18/2025,114.95,In Stock,31,Safe
+M196,Vitamin C,Supplement,PharmaPlus,198,85,0.5,2/20/2027,10/15/2025,99,In Stock,319,Safe
+M197,Paracetamol,Painkiller,PharmaPlus,189,84,1.01,6/2/2026,11/3/2025,190.89,In Stock,56,Safe
+M198,Paracetamol,Painkiller,MedSupply Co,10,65,1.83,5/13/2026,11/19/2025,18.3,Low Stock,36,Safe
+M199,Amlodipine,Hypertension,GlobalMed,48,39,0.78,6/24/2026,12/19/2025,37.44,In Stock,78,Safe
+M200,Azithromycin,Antibiotic,HealthCorp,143,77,0.81,6/30/2026,3/20/2026,115.83,In Stock,84,Safe
+M201,Amlodipine,Hypertension,GlobalMed,174,29,1.46,3/21/2027,1/26/2026,254.04,In Stock,348,Safe
+M202,Ibuprofen,Painkiller,HealthCorp,19,98,0.54,1/2/2027,10/14/2025,10.26,Low Stock,270,Safe
+M203,Paracetamol,Painkiller,PharmaPlus,71,66,1.44,6/8/2026,11/11/2025,102.24,In Stock,62,Safe
+M204,Amoxicillin,Antibiotic,PharmaPlus,144,81,0.61,3/16/2027,3/8/2026,87.84,In Stock,343,Safe
+M205,Amoxicillin,Antibiotic,HealthCorp,32,42,0.98,7/3/2026,12/28/2025,31.36,Low Stock,87,Safe
+M206,Cetirizine,Antihistamine,PharmaPlus,115,99,1.24,2/13/2027,12/26/2025,142.6,In Stock,312,Safe
+M207,Amoxicillin,Antibiotic,PharmaPlus,18,96,1.28,10/6/2026,10/24/2025,23.04,Low Stock,182,Safe
+M208,Azithromycin,Antibiotic,PharmaPlus,153,45,1.18,3/3/2027,12/28/2025,180.54,In Stock,330,Safe
+M209,Vitamin C,Supplement,GlobalMed,34,85,1.33,9/19/2026,1/18/2026,45.22,Low Stock,165,Safe
+M210,Omeprazole,Antacid,GlobalMed,157,23,0.66,8/8/2026,12/7/2025,103.62,In Stock,123,Safe
+M211,Omeprazole,Antacid,MedSupply Co,50,61,1.43,5/27/2026,1/8/2026,71.5,Low Stock,50,Safe
+M212,Omeprazole,Antacid,HealthCorp,30,52,1.69,10/8/2026,1/6/2026,50.7,Low Stock,184,Safe
+M213,Cetirizine,Antihistamine,HealthCorp,115,60,1.15,2/19/2027,3/3/2026,132.25,In Stock,318,Safe
+M214,Losartan,Hypertension,HealthCorp,23,52,1.64,7/3/2026,11/12/2025,37.72,Low Stock,87,Safe
+M215,Losartan,Hypertension,GlobalMed,18,72,1.48,12/19/2026,10/31/2025,26.64,Low Stock,256,Safe
+M216,Cetirizine,Antihistamine,PharmaPlus,168,81,1.95,7/27/2026,10/23/2025,327.6,In Stock,111,Safe
+M217,Cetirizine,Antihistamine,MedSupply Co,56,47,1.5,1/1/2027,1/24/2026,84,In Stock,269,Safe
+M218,Paracetamol,Painkiller,MedSupply Co,129,67,0.89,3/29/2027,11/25/2025,114.81,In Stock,356,Safe
+M219,Cetirizine,Antihistamine,GlobalMed,158,30,1.55,10/24/2026,11/24/2025,244.9,In Stock,200,Safe
+M220,Vitamin C,Supplement,HealthCorp,88,34,0.94,6/8/2026,12/23/2025,82.72,In Stock,62,Safe
+M221,Losartan,Hypertension,GlobalMed,151,66,1.12,8/6/2026,1/17/2026,169.12,In Stock,121,Safe
+M222,Metformin,Diabetes,PharmaPlus,86,65,1.91,3/28/2027,4/2/2026,164.26,In Stock,355,Safe
+M223,Amoxicillin,Antibiotic,MedSupply Co,125,70,0.7,3/18/2027,1/8/2026,87.5,In Stock,345,Safe
+M224,Amoxicillin,Antibiotic,MedSupply Co,86,30,0.99,9/14/2026,11/15/2025,85.14,In Stock,160,Safe
+M225,Ibuprofen,Painkiller,PharmaPlus,172,77,2,2/3/2027,2/18/2026,344,In Stock,302,Safe
+M226,Azithromycin,Antibiotic,PharmaPlus,33,40,1.57,2/13/2027,3/12/2026,51.81,Low Stock,312,Safe
+M227,Omeprazole,Antacid,PharmaPlus,105,81,1.65,9/29/2026,3/4/2026,173.25,In Stock,175,Safe
+M228,Omeprazole,Antacid,GlobalMed,75,81,1.26,1/26/2027,11/23/2025,94.5,Low Stock,294,Safe
+M229,Vitamin C,Supplement,HealthCorp,55,41,1.95,1/9/2027,12/18/2025,107.25,In Stock,277,Safe
+M230,Amoxicillin,Antibiotic,MedSupply Co,4,27,1.19,9/12/2026,1/25/2026,4.76,Low Stock,158,Safe
+M231,Omeprazole,Antacid,PharmaPlus,94,55,0.84,3/2/2027,1/4/2026,78.96,In Stock,329,Safe
+M232,Amoxicillin,Antibiotic,HealthCorp,161,97,1.13,3/8/2027,11/5/2025,181.93,In Stock,335,Safe
+M233,Amlodipine,Hypertension,PharmaPlus,39,86,1.21,3/10/2027,12/23/2025,47.19,Low Stock,337,Safe
+M234,Omeprazole,Antacid,HealthCorp,177,69,1.85,11/14/2026,3/11/2026,327.45,In Stock,221,Safe
+M235,Vitamin C,Supplement,MedSupply Co,83,50,1.36,9/16/2026,12/26/2025,112.88,In Stock,162,Safe
+M236,Omeprazole,Antacid,HealthCorp,31,53,1.45,4/1/2027,11/24/2025,44.95,Low Stock,359,Safe
+M237,Losartan,Hypertension,HealthCorp,102,97,1.61,6/4/2026,2/13/2026,164.22,In Stock,58,Safe
+M238,Ibuprofen,Painkiller,MedSupply Co,140,27,1.89,8/5/2026,10/21/2025,264.6,In Stock,120,Safe
+M239,Paracetamol,Painkiller,GlobalMed,178,29,0.5,8/24/2026,11/6/2025,89,In Stock,139,Safe
+M240,Losartan,Hypertension,GlobalMed,78,88,1.44,7/22/2026,3/16/2026,112.32,Low Stock,106,Safe
+M241,Azithromycin,Antibiotic,MedSupply Co,11,40,1.58,10/19/2026,3/31/2026,17.38,Low Stock,195,Safe
+M242,Amoxicillin,Antibiotic,MedSupply Co,197,80,1.33,2/13/2027,2/19/2026,262.01,In Stock,312,Safe
+M243,Paracetamol,Painkiller,GlobalMed,155,75,0.82,1/19/2027,3/13/2026,127.1,In Stock,287,Safe
+M244,Paracetamol,Painkiller,PharmaPlus,62,43,1.16,8/1/2026,12/14/2025,71.92,In Stock,116,Safe
+M245,Amlodipine,Hypertension,GlobalMed,15,67,0.78,10/3/2026,10/22/2025,11.7,Low Stock,179,Safe
+M246,Paracetamol,Painkiller,PharmaPlus,62,50,1.59,5/31/2026,10/17/2025,98.58,In Stock,54,Safe
+M247,Amoxicillin,Antibiotic,PharmaPlus,29,32,1.74,3/12/2027,3/30/2026,50.46,Low Stock,339,Safe
+M248,Losartan,Hypertension,PharmaPlus,189,69,1.2,3/12/2027,11/15/2025,226.8,In Stock,339,Safe
+M249,Amoxicillin,Antibiotic,GlobalMed,196,88,1.19,7/9/2026,12/23/2025,233.24,In Stock,93,Safe
+M250,Metformin,Diabetes,HealthCorp,198,36,1.62,5/9/2026,3/18/2026,320.76,In Stock,32,Safe
+M251,Azithromycin,Antibiotic,PharmaPlus,102,20,1.2,12/1/2026,2/17/2026,122.4,In Stock,238,Safe
+M252,Azithromycin,Antibiotic,PharmaPlus,39,58,1.6,9/7/2026,3/12/2026,62.4,Low Stock,153,Safe
+M253,Metformin,Diabetes,GlobalMed,31,22,1.48,2/26/2027,3/25/2026,45.88,In Stock,325,Safe
+M254,Amoxicillin,Antibiotic,HealthCorp,140,96,1.05,5/26/2026,11/15/2025,147,In Stock,49,Safe
+M255,Ibuprofen,Painkiller,HealthCorp,148,49,0.95,1/17/2027,11/17/2025,140.6,In Stock,285,Safe
+M256,Amoxicillin,Antibiotic,GlobalMed,24,98,0.68,3/8/2027,1/19/2026,16.32,Low Stock,335,Safe
+M257,Amoxicillin,Antibiotic,GlobalMed,30,53,0.85,7/29/2026,3/14/2026,25.5,Low Stock,113,Safe
+M258,Losartan,Hypertension,HealthCorp,81,38,0.58,2/6/2027,2/22/2026,46.98,In Stock,305,Safe
+M259,Metformin,Diabetes,PharmaPlus,42,35,1.53,1/1/2027,3/6/2026,64.26,In Stock,269,Safe
+M260,Cetirizine,Antihistamine,HealthCorp,144,100,1.15,2/21/2027,3/16/2026,165.6,In Stock,320,Safe
+M261,Paracetamol,Painkiller,GlobalMed,194,70,0.51,5/15/2026,3/3/2026,98.94,In Stock,38,Safe
+M262,Azithromycin,Antibiotic,HealthCorp,124,46,0.59,5/10/2026,3/27/2026,73.16,In Stock,33,Safe
+M263,Azithromycin,Antibiotic,MedSupply Co,47,97,1.69,5/31/2026,12/3/2025,79.43,Low Stock,54,Safe
+M264,Amoxicillin,Antibiotic,HealthCorp,195,42,1.33,5/11/2026,3/11/2026,259.35,In Stock,34,Safe
+M265,Vitamin C,Supplement,PharmaPlus,125,90,0.8,10/15/2026,10/18/2025,100,In Stock,191,Safe
+M266,Amoxicillin,Antibiotic,GlobalMed,182,30,1.36,8/28/2026,12/14/2025,247.52,In Stock,143,Safe
+M267,Ibuprofen,Painkiller,GlobalMed,143,60,0.78,6/30/2026,3/30/2026,111.54,In Stock,84,Safe
+M268,Metformin,Diabetes,PharmaPlus,130,75,1.12,9/27/2026,2/20/2026,145.6,In Stock,173,Safe
+M269,Vitamin C,Supplement,PharmaPlus,48,33,1.2,6/6/2026,12/25/2025,57.6,In Stock,60,Safe
+M270,Ibuprofen,Painkiller,MedSupply Co,185,80,1.05,11/25/2026,10/13/2025,194.25,In Stock,232,Safe
+M271,Omeprazole,Antacid,MedSupply Co,131,45,0.73,9/2/2026,1/17/2026,95.63,In Stock,148,Safe
+M272,Vitamin C,Supplement,GlobalMed,188,62,1.82,10/8/2026,12/11/2025,342.16,In Stock,184,Safe
+M273,Losartan,Hypertension,PharmaPlus,15,29,1.5,1/23/2027,3/21/2026,22.5,Low Stock,291,Safe
+M274,Amlodipine,Hypertension,GlobalMed,84,48,1.83,3/29/2027,2/10/2026,153.72,In Stock,356,Safe
+M275,Vitamin C,Supplement,PharmaPlus,9,55,0.64,1/27/2027,1/15/2026,5.76,Low Stock,295,Safe
+M276,Cetirizine,Antihistamine,HealthCorp,154,27,1.92,7/9/2026,1/19/2026,295.68,In Stock,93,Safe
+M277,Azithromycin,Antibiotic,HealthCorp,0,61,1.03,1/31/2027,3/15/2026,0,Out of Stock,299,Safe
+M278,Amlodipine,Hypertension,MedSupply Co,149,32,1.87,1/3/2027,3/23/2026,278.63,In Stock,271,Safe
+M279,Vitamin C,Supplement,PharmaPlus,149,28,1.91,6/15/2026,1/14/2026,284.59,In Stock,69,Safe
+M280,Ibuprofen,Painkiller,GlobalMed,139,41,1.19,7/7/2026,3/3/2026,165.41,In Stock,91,Safe
+M281,Cetirizine,Antihistamine,MedSupply Co,42,22,0.81,1/25/2027,1/19/2026,34.02,In Stock,293,Safe
+M282,Paracetamol,Painkiller,PharmaPlus,197,57,1.81,12/19/2026,10/28/2025,356.57,In Stock,256,Safe
+M283,Omeprazole,Antacid,MedSupply Co,68,67,0.79,5/11/2026,1/19/2026,53.72,In Stock,34,Safe
+M284,Vitamin C,Supplement,HealthCorp,180,29,1.04,7/3/2026,2/12/2026,187.2,In Stock,87,Safe
+M285,Amlodipine,Hypertension,HealthCorp,110,68,1.97,3/15/2027,2/20/2026,216.7,In Stock,342,Safe
+M286,Amoxicillin,Antibiotic,MedSupply Co,192,84,1.38,7/29/2026,1/14/2026,264.96,In Stock,113,Safe
+M287,Omeprazole,Antacid,GlobalMed,144,92,1.14,1/5/2027,4/5/2026,164.16,In Stock,273,Safe
+M288,Azithromycin,Antibiotic,MedSupply Co,119,38,1.65,11/8/2026,3/28/2026,196.35,In Stock,215,Safe
+M289,Cetirizine,Antihistamine,MedSupply Co,30,82,1.06,8/30/2026,11/22/2025,31.8,Low Stock,145,Safe
+M290,Paracetamol,Painkiller,HealthCorp,92,98,1.96,2/17/2027,10/24/2025,180.32,Low Stock,316,Safe
+M291,Cetirizine,Antihistamine,MedSupply Co,155,77,0.85,3/5/2027,3/19/2026,131.75,In Stock,332,Safe
+M292,Amlodipine,Hypertension,HealthCorp,131,71,0.5,11/18/2026,11/10/2025,65.5,In Stock,225,Safe
+M293,Metformin,Diabetes,MedSupply Co,73,21,0.6,4/4/2027,11/24/2025,43.8,In Stock,362,Safe
+M294,Amlodipine,Hypertension,GlobalMed,102,78,1.33,2/22/2027,4/6/2026,135.66,In Stock,321,Safe
+M295,Ibuprofen,Painkiller,GlobalMed,40,87,0.63,7/19/2026,2/7/2026,25.2,Low Stock,103,Safe
+M296,Losartan,Hypertension,HealthCorp,84,91,1.32,12/13/2026,12/30/2025,110.88,Low Stock,250,Safe
+M297,Azithromycin,Antibiotic,PharmaPlus,157,100,1.13,2/19/2027,3/23/2026,177.41,In Stock,318,Safe
+M298,Paracetamol,Painkiller,HealthCorp,19,43,0.52,11/21/2026,12/23/2025,9.88,Low Stock,228,Safe
+M299,Azithromycin,Antibiotic,HealthCorp,38,57,0.75,6/4/2026,3/15/2026,28.5,Low Stock,58,Safe
+M300,Ibuprofen,Painkiller,HealthCorp,187,84,1.78,9/4/2026,10/9/2025,332.86,In Stock,150,Safe
+M301,Omeprazole,Antacid,PharmaPlus,150,77,0.92,2/7/2027,2/1/2026,138,In Stock,306,Safe
+M302,Cetirizine,Antihistamine,HealthCorp,143,38,1.96,8/13/2026,2/19/2026,280.28,In Stock,128,Safe
+M303,Azithromycin,Antibiotic,GlobalMed,163,90,1.62,7/20/2026,12/27/2025,264.06,In Stock,104,Safe
+M304,Ibuprofen,Painkiller,PharmaPlus,14,85,1.49,7/8/2026,2/25/2026,20.86,Low Stock,92,Safe
+M305,Cetirizine,Antihistamine,HealthCorp,155,28,1.84,1/24/2027,10/10/2025,285.2,In Stock,292,Safe
+M306,Metformin,Diabetes,GlobalMed,51,89,1.54,3/1/2027,3/25/2026,78.54,Low Stock,328,Safe
+M307,Amoxicillin,Antibiotic,HealthCorp,95,78,0.52,7/20/2026,1/29/2026,49.4,In Stock,104,Safe
+M308,Metformin,Diabetes,HealthCorp,189,41,0.83,9/10/2026,3/25/2026,156.87,In Stock,156,Safe
+M309,Cetirizine,Antihistamine,HealthCorp,27,22,1.37,10/8/2026,12/31/2025,36.99,In Stock,184,Safe
+M310,Ibuprofen,Painkiller,PharmaPlus,159,25,1.68,9/28/2026,1/15/2026,267.12,In Stock,174,Safe
+M311,Omeprazole,Antacid,GlobalMed,143,38,0.99,6/16/2026,2/8/2026,141.57,In Stock,70,Safe
+M312,Losartan,Hypertension,MedSupply Co,106,83,1.43,1/18/2027,12/9/2025,151.58,In Stock,286,Safe
+M313,Paracetamol,Painkiller,MedSupply Co,107,46,1.2,10/27/2026,12/13/2025,128.4,In Stock,203,Safe
+M314,Ibuprofen,Painkiller,GlobalMed,78,22,0.96,10/28/2026,10/9/2025,74.88,In Stock,204,Safe
+M315,Vitamin C,Supplement,MedSupply Co,94,78,1.6,1/19/2027,3/12/2026,150.4,In Stock,287,Safe
+M316,Cetirizine,Antihistamine,HealthCorp,97,66,1.36,10/29/2026,11/5/2025,131.92,In Stock,205,Safe
+M317,Amlodipine,Hypertension,PharmaPlus,16,27,1.73,7/14/2026,1/2/2026,27.68,Low Stock,98,Safe
+M318,Amoxicillin,Antibiotic,GlobalMed,104,34,1.78,4/5/2027,3/1/2026,185.12,In Stock,363,Safe
+M319,Omeprazole,Antacid,MedSupply Co,198,87,1.51,12/18/2026,11/25/2025,298.98,In Stock,255,Safe
+M320,Vitamin C,Supplement,MedSupply Co,71,77,1.44,5/11/2026,4/4/2026,102.24,Low Stock,34,Safe
+M321,Amlodipine,Hypertension,PharmaPlus,196,35,1.18,10/18/2026,3/12/2026,231.28,In Stock,194,Safe
+M322,Metformin,Diabetes,MedSupply Co,144,87,1.02,12/14/2026,12/16/2025,146.88,In Stock,251,Safe
+M323,Amoxicillin,Antibiotic,PharmaPlus,118,77,0.69,12/30/2026,10/10/2025,81.42,In Stock,267,Safe
+M324,Vitamin C,Supplement,GlobalMed,119,43,1.09,8/25/2026,4/6/2026,129.71,In Stock,140,Safe
+M325,Cetirizine,Antihistamine,PharmaPlus,117,30,1.79,6/15/2026,3/4/2026,209.43,In Stock,69,Safe
+M326,Paracetamol,Painkiller,HealthCorp,189,90,0.62,9/1/2026,1/4/2026,117.18,In Stock,147,Safe
+M327,Metformin,Diabetes,GlobalMed,135,99,1.34,7/2/2026,11/17/2025,180.9,In Stock,86,Safe
+M328,Azithromycin,Antibiotic,MedSupply Co,131,50,1.96,8/31/2026,2/16/2026,256.76,In Stock,146,Safe
+M329,Cetirizine,Antihistamine,PharmaPlus,17,26,1.12,2/2/2027,1/27/2026,19.04,Low Stock,301,Safe
+M330,Vitamin C,Supplement,PharmaPlus,181,57,1.46,9/22/2026,12/16/2025,264.26,In Stock,168,Safe
+M331,Losartan,Hypertension,GlobalMed,140,33,1.89,5/22/2026,3/13/2026,264.6,In Stock,45,Safe
+M332,Losartan,Hypertension,HealthCorp,128,83,1.68,1/18/2027,10/27/2025,215.04,In Stock,286,Safe
+M333,Metformin,Diabetes,PharmaPlus,39,72,1.62,11/29/2026,1/13/2026,63.18,Low Stock,236,Safe
+M334,Azithromycin,Antibiotic,GlobalMed,84,69,1.49,7/9/2026,1/1/2026,125.16,In Stock,93,Safe
+M335,Ibuprofen,Painkiller,GlobalMed,173,52,1.91,10/20/2026,3/26/2026,330.43,In Stock,196,Safe
+M336,Metformin,Diabetes,PharmaPlus,85,57,1.23,8/11/2026,1/26/2026,104.55,In Stock,126,Safe
+M337,Azithromycin,Antibiotic,HealthCorp,144,76,0.54,3/18/2027,10/10/2025,77.76,In Stock,345,Safe
+M338,Omeprazole,Antacid,GlobalMed,147,99,1.1,11/18/2026,11/8/2025,161.7,In Stock,225,Safe
+M339,Losartan,Hypertension,HealthCorp,166,49,1.73,11/29/2026,12/1/2025,287.18,In Stock,236,Safe
+M340,Azithromycin,Antibiotic,MedSupply Co,149,58,1.52,9/12/2026,11/15/2025,226.48,In Stock,158,Safe
+M341,Metformin,Diabetes,PharmaPlus,189,44,1.06,7/27/2026,10/31/2025,200.34,In Stock,111,Safe
+M342,Vitamin C,Supplement,HealthCorp,122,33,1.64,3/14/2027,3/16/2026,200.08,In Stock,341,Safe
+M343,Cetirizine,Antihistamine,MedSupply Co,5,88,1.71,9/1/2026,1/27/2026,8.55,Low Stock,147,Safe
+M344,Omeprazole,Antacid,GlobalMed,187,76,1.52,7/13/2026,2/23/2026,284.24,In Stock,97,Safe
+M345,Vitamin C,Supplement,MedSupply Co,114,82,1.25,3/9/2027,11/29/2025,142.5,In Stock,336,Safe
+M346,Amlodipine,Hypertension,PharmaPlus,99,90,1.45,8/29/2026,3/5/2026,143.55,In Stock,144,Safe
+M347,Paracetamol,Painkiller,GlobalMed,80,60,1.89,2/7/2027,12/30/2025,151.2,In Stock,306,Safe
+M348,Omeprazole,Antacid,HealthCorp,59,74,1.8,11/12/2026,1/10/2026,106.2,Low Stock,219,Safe
+M349,Paracetamol,Painkiller,HealthCorp,109,66,0.5,6/26/2026,2/2/2026,54.5,In Stock,80,Safe
+M350,Amlodipine,Hypertension,HealthCorp,131,61,1.15,7/5/2026,10/30/2025,150.65,In Stock,89,Safe
+M351,Omeprazole,Antacid,MedSupply Co,80,49,0.78,8/16/2026,10/13/2025,62.4,In Stock,131,Safe
+M352,Azithromycin,Antibiotic,PharmaPlus,28,32,1.97,7/2/2026,10/21/2025,55.16,Low Stock,86,Safe
+M353,Omeprazole,Antacid,PharmaPlus,136,58,1.73,1/5/2027,1/28/2026,235.28,In Stock,273,Safe
+M354,Cetirizine,Antihistamine,GlobalMed,70,64,1.97,2/16/2027,10/20/2025,137.9,In Stock,315,Safe
+M355,Ibuprofen,Painkiller,PharmaPlus,168,37,0.8,2/11/2027,12/8/2025,134.4,In Stock,310,Safe
+M356,Vitamin C,Supplement,PharmaPlus,112,48,1.39,9/9/2026,3/8/2026,155.68,In Stock,155,Safe
+M357,Losartan,Hypertension,PharmaPlus,175,27,1.95,6/30/2026,3/15/2026,341.25,In Stock,84,Safe
+M358,Omeprazole,Antacid,HealthCorp,94,55,1.94,10/22/2026,3/6/2026,182.36,In Stock,198,Safe
+M359,Amlodipine,Hypertension,GlobalMed,14,76,1.74,6/1/2026,10/21/2025,24.36,Low Stock,55,Safe
+M360,Amlodipine,Hypertension,MedSupply Co,193,23,0.81,10/24/2026,3/12/2026,156.33,In Stock,200,Safe
+M361,Azithromycin,Antibiotic,GlobalMed,74,50,1.16,6/5/2026,2/27/2026,85.84,In Stock,59,Safe
+M362,Omeprazole,Antacid,MedSupply Co,70,61,1.43,9/13/2026,1/23/2026,100.1,In Stock,159,Safe
+M363,Metformin,Diabetes,GlobalMed,79,24,1.04,9/14/2026,11/20/2025,82.16,In Stock,160,Safe
+M364,Metformin,Diabetes,GlobalMed,46,58,1.2,1/19/2027,10/10/2025,55.2,Low Stock,287,Safe
+M365,Amoxicillin,Antibiotic,GlobalMed,2,30,1.92,2/21/2027,2/28/2026,3.84,Low Stock,320,Safe
+M366,Cetirizine,Antihistamine,GlobalMed,195,22,1.42,8/15/2026,12/22/2025,276.9,In Stock,130,Safe
+M367,Omeprazole,Antacid,MedSupply Co,94,42,1.49,12/23/2026,10/16/2025,140.06,In Stock,260,Safe
+M368,Amoxicillin,Antibiotic,MedSupply Co,124,70,1.89,9/24/2026,2/9/2026,234.36,In Stock,170,Safe
+M369,Cetirizine,Antihistamine,GlobalMed,130,20,1.53,5/29/2026,12/31/2025,198.9,In Stock,52,Safe
+M370,Amlodipine,Hypertension,PharmaPlus,36,82,1.36,9/27/2026,11/5/2025,48.96,Low Stock,173,Safe
+M371,Vitamin C,Supplement,MedSupply Co,87,86,0.9,2/24/2027,3/25/2026,78.3,In Stock,323,Safe
+M372,Amoxicillin,Antibiotic,PharmaPlus,108,71,1.24,10/19/2026,1/15/2026,133.92,In Stock,195,Safe
+M373,Ibuprofen,Painkiller,HealthCorp,128,60,0.52,12/8/2026,2/17/2026,66.56,In Stock,245,Safe
+M374,Azithromycin,Antibiotic,MedSupply Co,0,73,1.34,1/16/2027,1/28/2026,0,Out of Stock,284,Safe
+M375,Ibuprofen,Painkiller,GlobalMed,96,77,0.69,9/16/2026,3/8/2026,66.24,In Stock,162,Safe
+M376,Cetirizine,Antihistamine,PharmaPlus,36,59,1.3,2/17/2027,2/17/2026,46.8,Low Stock,316,Safe
+M377,Ibuprofen,Painkiller,GlobalMed,147,87,0.59,8/30/2026,3/13/2026,86.73,In Stock,145,Safe
+M378,Ibuprofen,Painkiller,GlobalMed,153,47,0.59,11/19/2026,1/23/2026,90.27,In Stock,226,Safe
+M379,Paracetamol,Painkiller,PharmaPlus,180,87,1.32,1/26/2027,12/10/2025,237.6,In Stock,294,Safe
+M380,Amlodipine,Hypertension,GlobalMed,174,79,0.77,3/30/2027,11/14/2025,133.98,In Stock,357,Safe
+M381,Azithromycin,Antibiotic,GlobalMed,172,96,0.95,8/29/2026,2/27/2026,163.4,In Stock,144,Safe
+M382,Amlodipine,Hypertension,GlobalMed,183,39,1.74,1/2/2027,1/16/2026,318.42,In Stock,270,Safe
+M383,Paracetamol,Painkiller,PharmaPlus,196,69,1.33,3/31/2027,11/19/2025,260.68,In Stock,358,Safe
+M384,Omeprazole,Antacid,HealthCorp,115,100,1,10/20/2026,10/24/2025,115,In Stock,196,Safe
+M385,Ibuprofen,Painkiller,PharmaPlus,132,29,0.81,10/10/2026,11/17/2025,106.92,In Stock,186,Safe
+M386,Amlodipine,Hypertension,PharmaPlus,110,40,0.57,11/1/2026,12/8/2025,62.7,In Stock,208,Safe
+M387,Paracetamol,Painkiller,PharmaPlus,148,65,0.55,10/13/2026,3/24/2026,81.4,In Stock,189,Safe
+M388,Cetirizine,Antihistamine,GlobalMed,138,89,1.08,6/30/2026,2/23/2026,149.04,In Stock,84,Safe
+M389,Vitamin C,Supplement,HealthCorp,142,77,1.52,2/18/2027,1/6/2026,215.84,In Stock,317,Safe
+M390,Amoxicillin,Antibiotic,MedSupply Co,85,30,1.55,5/29/2026,3/10/2026,131.75,In Stock,52,Safe
+M391,Amoxicillin,Antibiotic,MedSupply Co,17,87,1.73,10/2/2026,1/10/2026,29.41,Low Stock,178,Safe
+M392,Ibuprofen,Painkiller,HealthCorp,22,85,0.96,9/3/2026,11/26/2025,21.12,Low Stock,149,Safe
+M393,Vitamin C,Supplement,HealthCorp,11,78,0.64,9/3/2026,11/5/2025,7.04,Low Stock,149,Safe
+M394,Amoxicillin,Antibiotic,MedSupply Co,13,58,0.81,8/31/2026,3/26/2026,10.53,Low Stock,146,Safe
+M395,Paracetamol,Painkiller,HealthCorp,13,76,1.04,8/19/2026,10/27/2025,13.52,Low Stock,134,Safe
+M396,Amoxicillin,Antibiotic,PharmaPlus,0,68,0.52,7/8/2026,1/9/2026,0,Out of Stock,92,Safe
+M397,Amlodipine,Hypertension,HealthCorp,160,89,0.72,11/4/2026,1/9/2026,115.2,In Stock,211,Safe
+M398,Azithromycin,Antibiotic,PharmaPlus,9,28,1.51,7/18/2026,1/30/2026,13.59,Low Stock,102,Safe
+M399,Losartan,Hypertension,GlobalMed,184,56,0.54,3/1/2027,3/10/2026,99.36,In Stock,328,Safe
+M400,Cetirizine,Antihistamine,MedSupply Co,169,30,1.46,10/16/2026,12/12/2025,246.74,In Stock,192,Safe
+M401,Vitamin C,Supplement,GlobalMed,3,58,0.78,6/23/2026,2/7/2026,2.34,Low Stock,77,Safe
+M402,Losartan,Hypertension,GlobalMed,31,37,0.68,6/19/2026,11/27/2025,21.08,Low Stock,73,Safe
+M403,Amlodipine,Hypertension,GlobalMed,28,28,0.54,7/12/2026,12/24/2025,15.12,In Stock,96,Safe
+M404,Azithromycin,Antibiotic,GlobalMed,2,60,0.55,6/23/2026,2/14/2026,1.1,Low Stock,77,Safe
+M405,Paracetamol,Painkiller,HealthCorp,66,98,1.8,12/21/2026,4/2/2026,118.8,Low Stock,258,Safe
+M406,Ibuprofen,Painkiller,GlobalMed,199,33,1.27,9/23/2026,3/29/2026,252.73,In Stock,169,Safe
+M407,Metformin,Diabetes,MedSupply Co,161,93,1.36,9/5/2026,10/22/2025,218.96,In Stock,151,Safe
+M408,Cetirizine,Antihistamine,PharmaPlus,9,63,0.55,7/16/2026,3/3/2026,4.95,Low Stock,100,Safe
+M409,Vitamin C,Supplement,PharmaPlus,85,62,0.88,11/20/2026,11/30/2025,74.8,In Stock,227,Safe
+M410,Cetirizine,Antihistamine,PharmaPlus,50,39,1.38,5/10/2026,4/5/2026,69,In Stock,33,Safe
+M411,Amoxicillin,Antibiotic,HealthCorp,199,26,1.7,2/15/2027,12/16/2025,338.3,In Stock,314,Safe
+M412,Metformin,Diabetes,PharmaPlus,191,79,1.94,3/5/2027,1/22/2026,370.54,In Stock,332,Safe
+M413,Amoxicillin,Antibiotic,GlobalMed,198,57,1.24,10/27/2026,2/21/2026,245.52,In Stock,203,Safe
+M414,Omeprazole,Antacid,MedSupply Co,95,39,1.61,9/7/2026,4/1/2026,152.95,In Stock,153,Safe
+M415,Amoxicillin,Antibiotic,PharmaPlus,91,94,1.77,1/12/2027,12/24/2025,161.07,Low Stock,280,Safe
+M416,Losartan,Hypertension,MedSupply Co,95,81,1.81,6/27/2026,2/20/2026,171.95,In Stock,81,Safe
+M417,Cetirizine,Antihistamine,MedSupply Co,120,23,0.93,8/14/2026,12/19/2025,111.6,In Stock,129,Safe
+M418,Ibuprofen,Painkiller,PharmaPlus,81,30,1.15,7/29/2026,10/21/2025,93.15,In Stock,113,Safe
+M419,Omeprazole,Antacid,HealthCorp,12,68,1.07,12/30/2026,2/19/2026,12.84,Low Stock,267,Safe
+M420,Azithromycin,Antibiotic,GlobalMed,171,23,1.53,8/17/2026,10/29/2025,261.63,In Stock,132,Safe
+M421,Vitamin C,Supplement,HealthCorp,109,57,0.81,11/23/2026,12/9/2025,88.29,In Stock,230,Safe
+M422,Omeprazole,Antacid,HealthCorp,97,59,1.09,6/1/2026,2/21/2026,105.73,In Stock,55,Safe
+M423,Ibuprofen,Painkiller,GlobalMed,81,57,1.42,6/8/2026,1/4/2026,115.02,In Stock,62,Safe
+M424,Amlodipine,Hypertension,MedSupply Co,118,72,1.86,5/7/2026,4/6/2026,219.48,In Stock,30,Expiring Soon
+M425,Losartan,Hypertension,MedSupply Co,3,35,1.13,1/15/2027,1/13/2026,3.39,Low Stock,283,Safe
+M426,Amlodipine,Hypertension,PharmaPlus,60,75,0.71,5/10/2026,11/28/2025,42.6,Low Stock,33,Safe
+M427,Amoxicillin,Antibiotic,HealthCorp,45,96,0.95,10/11/2026,10/19/2025,42.75,Low Stock,187,Safe
+M428,Metformin,Diabetes,PharmaPlus,138,75,1.96,6/25/2026,3/7/2026,270.48,In Stock,79,Safe
+M429,Ibuprofen,Painkiller,PharmaPlus,195,88,1.74,10/25/2026,2/8/2026,339.3,In Stock,201,Safe
+M430,Amlodipine,Hypertension,PharmaPlus,120,55,1.64,8/22/2026,2/21/2026,196.8,In Stock,137,Safe
+M431,Metformin,Diabetes,GlobalMed,69,70,1.69,8/3/2026,11/12/2025,116.61,Low Stock,118,Safe
+M432,Amoxicillin,Antibiotic,GlobalMed,18,54,1.6,3/20/2027,10/28/2025,28.8,Low Stock,347,Safe
+M433,Ibuprofen,Painkiller,HealthCorp,102,31,1.32,6/14/2026,3/1/2026,134.64,In Stock,68,Safe
+M434,Vitamin C,Supplement,MedSupply Co,24,31,0.93,1/19/2027,12/25/2025,22.32,Low Stock,287,Safe
+M435,Metformin,Diabetes,HealthCorp,103,54,0.8,1/30/2027,3/14/2026,82.4,In Stock,298,Safe
+M436,Losartan,Hypertension,HealthCorp,30,30,1.94,6/5/2026,3/1/2026,58.2,In Stock,59,Safe
+M437,Amoxicillin,Antibiotic,PharmaPlus,47,39,1.54,1/11/2027,1/12/2026,72.38,In Stock,279,Safe
+M438,Ibuprofen,Painkiller,MedSupply Co,197,74,1.47,3/23/2027,11/27/2025,289.59,In Stock,350,Safe
+M439,Azithromycin,Antibiotic,PharmaPlus,96,86,1.07,7/26/2026,10/18/2025,102.72,In Stock,110,Safe
+M440,Amoxicillin,Antibiotic,GlobalMed,179,73,1.94,12/15/2026,11/6/2025,347.26,In Stock,252,Safe
+M441,Metformin,Diabetes,PharmaPlus,46,52,0.92,9/10/2026,10/29/2025,42.32,Low Stock,156,Safe
+M442,Paracetamol,Painkiller,GlobalMed,172,57,0.83,10/12/2026,12/31/2025,142.76,In Stock,188,Safe
+M443,Amlodipine,Hypertension,GlobalMed,194,57,1.45,2/23/2027,10/29/2025,281.3,In Stock,322,Safe
+M444,Amoxicillin,Antibiotic,MedSupply Co,71,34,1.96,1/9/2027,2/26/2026,139.16,In Stock,277,Safe
+M445,Ibuprofen,Painkiller,PharmaPlus,32,65,1.1,3/28/2027,12/9/2025,35.2,Low Stock,355,Safe
+M446,Cetirizine,Antihistamine,MedSupply Co,36,58,0.58,12/25/2026,11/1/2025,20.88,Low Stock,262,Safe
+M447,Amlodipine,Hypertension,HealthCorp,27,57,1.92,10/18/2026,2/16/2026,51.84,Low Stock,194,Safe
+M448,Vitamin C,Supplement,HealthCorp,89,98,0.9,9/9/2026,11/28/2025,80.1,Low Stock,155,Safe
+M449,Metformin,Diabetes,GlobalMed,44,82,1.31,7/24/2026,2/15/2026,57.64,Low Stock,108,Safe
+M450,Losartan,Hypertension,GlobalMed,78,81,1.02,7/22/2026,1/27/2026,79.56,Low Stock,106,Safe
+M451,Cetirizine,Antihistamine,MedSupply Co,199,84,1.73,6/11/2026,10/10/2025,344.27,In Stock,65,Safe
+M452,Amlodipine,Hypertension,GlobalMed,13,92,1.91,3/19/2027,2/15/2026,24.83,Low Stock,346,Safe
+M453,Azithromycin,Antibiotic,HealthCorp,146,42,1.53,3/26/2027,11/30/2025,223.38,In Stock,353,Safe
+M454,Azithromycin,Antibiotic,PharmaPlus,181,29,1.22,12/5/2026,1/8/2026,220.82,In Stock,242,Safe
+M455,Omeprazole,Antacid,MedSupply Co,188,58,1.91,8/1/2026,4/3/2026,359.08,In Stock,116,Safe
+M456,Metformin,Diabetes,PharmaPlus,4,83,0.95,5/18/2026,12/9/2025,3.8,Low Stock,41,Safe
+M457,Ibuprofen,Painkiller,HealthCorp,74,60,0.58,3/29/2027,11/19/2025,42.92,In Stock,356,Safe
+M458,Metformin,Diabetes,PharmaPlus,71,95,1.41,11/14/2026,11/29/2025,100.11,Low Stock,221,Safe
+M459,Metformin,Diabetes,PharmaPlus,84,61,1.29,8/7/2026,2/16/2026,108.36,In Stock,122,Safe
+M460,Azithromycin,Antibiotic,PharmaPlus,13,76,1.45,10/13/2026,10/24/2025,18.85,Low Stock,189,Safe
+M461,Cetirizine,Antihistamine,MedSupply Co,149,87,1.99,1/19/2027,3/17/2026,296.51,In Stock,287,Safe
+M462,Ibuprofen,Painkiller,PharmaPlus,158,75,0.79,1/16/2027,12/16/2025,124.82,In Stock,284,Safe
+M463,Amoxicillin,Antibiotic,PharmaPlus,125,70,0.78,5/29/2026,3/13/2026,97.5,In Stock,52,Safe
+M464,Amlodipine,Hypertension,HealthCorp,170,60,1.39,6/8/2026,3/23/2026,236.3,In Stock,62,Safe
+M465,Vitamin C,Supplement,HealthCorp,14,38,0.64,8/12/2026,3/3/2026,8.96,Low Stock,127,Safe
+M466,Amoxicillin,Antibiotic,PharmaPlus,35,84,0.54,6/1/2026,1/12/2026,18.9,Low Stock,55,Safe
+M467,Cetirizine,Antihistamine,MedSupply Co,90,44,1.53,1/19/2027,11/4/2025,137.7,In Stock,287,Safe
+M468,Amoxicillin,Antibiotic,GlobalMed,136,30,0.74,3/27/2027,10/30/2025,100.64,In Stock,354,Safe
+M469,Amoxicillin,Antibiotic,GlobalMed,197,33,1.86,3/2/2027,12/31/2025,366.42,In Stock,329,Safe
+M470,Amoxicillin,Antibiotic,PharmaPlus,93,39,0.99,12/2/2026,2/27/2026,92.07,In Stock,239,Safe
+M471,Paracetamol,Painkiller,PharmaPlus,147,79,1.98,12/27/2026,3/21/2026,291.06,In Stock,264,Safe
+M472,Paracetamol,Painkiller,GlobalMed,40,28,1.67,8/4/2026,3/24/2026,66.8,In Stock,119,Safe
+M473,Cetirizine,Antihistamine,GlobalMed,42,62,0.95,2/26/2027,10/15/2025,39.9,Low Stock,325,Safe
+M474,Metformin,Diabetes,PharmaPlus,199,57,0.5,5/31/2026,3/19/2026,99.5,In Stock,54,Safe
+M475,Vitamin C,Supplement,HealthCorp,191,37,1.45,6/18/2026,1/17/2026,276.95,In Stock,72,Safe
+M476,Metformin,Diabetes,MedSupply Co,180,67,1.1,3/15/2027,11/7/2025,198,In Stock,342,Safe
+M477,Ibuprofen,Painkiller,MedSupply Co,22,80,1.04,8/12/2026,3/13/2026,22.88,Low Stock,127,Safe
+M478,Vitamin C,Supplement,PharmaPlus,118,55,1.7,3/2/2027,3/12/2026,200.6,In Stock,329,Safe
+M479,Losartan,Hypertension,HealthCorp,163,98,1.83,12/14/2026,12/17/2025,298.29,In Stock,251,Safe
+M480,Cetirizine,Antihistamine,GlobalMed,184,24,1.23,7/6/2026,11/26/2025,226.32,In Stock,90,Safe
+M481,Azithromycin,Antibiotic,HealthCorp,118,99,0.89,7/12/2026,1/31/2026,105.02,In Stock,96,Safe
+M482,Losartan,Hypertension,PharmaPlus,35,92,1.44,7/2/2026,3/2/2026,50.4,Low Stock,86,Safe
+M483,Amlodipine,Hypertension,HealthCorp,93,69,0.95,11/8/2026,11/30/2025,88.35,In Stock,215,Safe
+M484,Ibuprofen,Painkiller,MedSupply Co,197,68,0.67,5/9/2026,1/15/2026,131.99,In Stock,32,Safe
+M485,Metformin,Diabetes,HealthCorp,102,67,0.56,10/13/2026,12/15/2025,57.12,In Stock,189,Safe
+M486,Cetirizine,Antihistamine,GlobalMed,148,96,1.35,9/14/2026,3/19/2026,199.8,In Stock,160,Safe
+M487,Vitamin C,Supplement,PharmaPlus,142,56,1.35,11/1/2026,1/21/2026,191.7,In Stock,208,Safe
+M488,Cetirizine,Antihistamine,PharmaPlus,59,64,0.62,2/26/2027,4/4/2026,36.58,Low Stock,325,Safe
+M489,Omeprazole,Antacid,GlobalMed,157,68,1.18,3/25/2027,11/15/2025,185.26,In Stock,352,Safe
+M490,Omeprazole,Antacid,PharmaPlus,147,43,1.56,7/17/2026,12/1/2025,229.32,In Stock,101,Safe
+M491,Losartan,Hypertension,GlobalMed,90,63,1.06,8/17/2026,3/29/2026,95.4,In Stock,132,Safe
+M492,Losartan,Hypertension,GlobalMed,153,46,0.79,8/6/2026,3/21/2026,120.87,In Stock,121,Safe
+M493,Azithromycin,Antibiotic,PharmaPlus,101,99,1.07,9/1/2026,1/20/2026,108.07,In Stock,147,Safe
+M494,Azithromycin,Antibiotic,HealthCorp,163,58,1.06,12/24/2026,1/14/2026,172.78,In Stock,261,Safe
+M495,Cetirizine,Antihistamine,MedSupply Co,48,89,1.62,10/18/2026,2/10/2026,77.76,Low Stock,194,Safe
+M496,Omeprazole,Antacid,PharmaPlus,177,25,1.01,8/25/2026,1/23/2026,178.77,In Stock,140,Safe
+M497,Omeprazole,Antacid,GlobalMed,81,70,1.35,1/7/2027,11/8/2025,109.35,In Stock,275,Safe
+M498,Losartan,Hypertension,GlobalMed,120,72,1.89,8/17/2026,3/16/2026,226.8,In Stock,132,Safe
+M499,Amoxicillin,Antibiotic,MedSupply Co,48,71,1.92,10/28/2026,12/23/2025,92.16,Low Stock,204,Safe
+M500,Losartan,Hypertension,MedSupply Co,163,42,0.98,6/2/2026,12/18/2025,159.74,In Stock,56,Safe
+M501,Cetirizine,Antihistamine,PharmaPlus,121,52,1.81,9/7/2026,1/10/2026,219.01,In Stock,153,Safe
+M502,Azithromycin,Antibiotic,GlobalMed,48,49,1.64,2/11/2027,11/20/2025,78.72,Low Stock,310,Safe
+M503,Losartan,Hypertension,HealthCorp,97,82,1.98,10/13/2026,11/18/2025,192.06,In Stock,189,Safe
+M504,Azithromycin,Antibiotic,GlobalMed,151,24,0.68,8/10/2026,3/4/2026,102.68,In Stock,125,Safe
+M505,Ibuprofen,Painkiller,HealthCorp,95,41,0.66,12/1/2026,12/19/2025,62.7,In Stock,238,Safe
+M506,Metformin,Diabetes,HealthCorp,35,55,0.94,7/11/2026,11/11/2025,32.9,Low Stock,95,Safe
+M507,Amoxicillin,Antibiotic,GlobalMed,121,75,0.73,12/5/2026,2/12/2026,88.33,In Stock,242,Safe
+M508,Ibuprofen,Painkiller,PharmaPlus,5,94,1.85,3/6/2027,10/11/2025,9.25,Low Stock,333,Safe
+M509,Cetirizine,Antihistamine,GlobalMed,71,66,1.65,1/14/2027,1/26/2026,117.15,In Stock,282,Safe
+M510,Paracetamol,Painkiller,PharmaPlus,115,66,0.71,11/10/2026,1/13/2026,81.65,In Stock,217,Safe
+M511,Vitamin C,Supplement,HealthCorp,137,85,1.09,4/2/2027,12/24/2025,149.33,In Stock,360,Safe
+M512,Metformin,Diabetes,MedSupply Co,183,57,1.14,10/22/2026,4/2/2026,208.62,In Stock,198,Safe
+M513,Paracetamol,Painkiller,HealthCorp,192,45,1.72,1/15/2027,3/28/2026,330.24,In Stock,283,Safe
+M514,Amoxicillin,Antibiotic,MedSupply Co,160,86,0.77,7/22/2026,10/28/2025,123.2,In Stock,106,Safe
+M515,Metformin,Diabetes,PharmaPlus,53,75,1.89,9/18/2026,10/16/2025,100.17,Low Stock,164,Safe
+M516,Cetirizine,Antihistamine,HealthCorp,171,40,1.81,3/9/2027,2/25/2026,309.51,In Stock,336,Safe
+M517,Cetirizine,Antihistamine,GlobalMed,143,78,1.32,4/6/2027,12/3/2025,188.76,In Stock,364,Safe
+M518,Paracetamol,Painkiller,HealthCorp,169,42,1.19,3/15/2027,10/14/2025,201.11,In Stock,342,Safe
+M519,Paracetamol,Painkiller,MedSupply Co,48,45,1.4,8/3/2026,3/21/2026,67.2,In Stock,118,Safe
+M520,Amlodipine,Hypertension,PharmaPlus,140,45,1.5,8/18/2026,12/1/2025,210,In Stock,133,Safe
+M521,Azithromycin,Antibiotic,HealthCorp,127,44,1.75,3/4/2027,1/22/2026,222.25,In Stock,331,Safe
+M522,Ibuprofen,Painkiller,GlobalMed,100,39,1.19,6/29/2026,3/25/2026,119,In Stock,83,Safe
+M523,Amoxicillin,Antibiotic,GlobalMed,182,67,1.73,1/2/2027,12/2/2025,314.86,In Stock,270,Safe
+M524,Amlodipine,Hypertension,PharmaPlus,128,91,0.59,7/9/2026,1/28/2026,75.52,In Stock,93,Safe
+M525,Cetirizine,Antihistamine,HealthCorp,175,48,0.91,6/29/2026,2/21/2026,159.25,In Stock,83,Safe
+M526,Vitamin C,Supplement,PharmaPlus,174,86,1.73,8/20/2026,1/25/2026,301.02,In Stock,135,Safe
+M527,Vitamin C,Supplement,MedSupply Co,54,56,0.61,9/6/2026,1/24/2026,32.94,Low Stock,152,Safe
+M528,Ibuprofen,Painkiller,PharmaPlus,56,56,1.14,1/13/2027,11/30/2025,63.84,In Stock,281,Safe
+M529,Azithromycin,Antibiotic,GlobalMed,154,88,0.61,11/13/2026,2/21/2026,93.94,In Stock,220,Safe
+M530,Metformin,Diabetes,PharmaPlus,75,62,0.87,8/1/2026,3/10/2026,65.25,In Stock,116,Safe
+M531,Metformin,Diabetes,PharmaPlus,141,59,0.66,2/18/2027,11/2/2025,93.06,In Stock,317,Safe
+M532,Losartan,Hypertension,PharmaPlus,145,61,1.91,5/11/2026,3/5/2026,276.95,In Stock,34,Safe
+M533,Ibuprofen,Painkiller,HealthCorp,44,92,1.22,6/3/2026,1/1/2026,53.68,Low Stock,57,Safe
+M534,Amlodipine,Hypertension,PharmaPlus,150,45,1.19,7/26/2026,12/10/2025,178.5,In Stock,110,Safe
+M535,Paracetamol,Painkiller,MedSupply Co,74,27,1.28,10/2/2026,12/25/2025,94.72,In Stock,178,Safe
+M536,Metformin,Diabetes,GlobalMed,1,57,1.68,1/29/2027,10/15/2025,1.68,Low Stock,297,Safe
+M537,Azithromycin,Antibiotic,HealthCorp,61,28,0.56,12/14/2026,3/9/2026,34.16,In Stock,251,Safe
+M538,Ibuprofen,Painkiller,HealthCorp,195,59,1.02,11/2/2026,3/2/2026,198.9,In Stock,209,Safe
+M539,Vitamin C,Supplement,HealthCorp,19,85,0.87,7/28/2026,10/29/2025,16.53,Low Stock,112,Safe
+M540,Losartan,Hypertension,HealthCorp,158,73,1.54,9/17/2026,3/18/2026,243.32,In Stock,163,Safe
+M541,Amoxicillin,Antibiotic,MedSupply Co,165,63,1.42,8/2/2026,12/6/2025,234.3,In Stock,117,Safe
+M542,Metformin,Diabetes,GlobalMed,28,75,1.02,8/25/2026,12/17/2025,28.56,Low Stock,140,Safe
+M543,Azithromycin,Antibiotic,HealthCorp,93,62,0.96,12/6/2026,10/16/2025,89.28,In Stock,243,Safe
+M544,Amlodipine,Hypertension,GlobalMed,118,41,1.48,6/17/2026,11/9/2025,174.64,In Stock,71,Safe
+M545,Ibuprofen,Painkiller,PharmaPlus,30,55,0.82,12/6/2026,3/9/2026,24.6,Low Stock,243,Safe
+M546,Vitamin C,Supplement,HealthCorp,2,34,0.91,12/9/2026,12/10/2025,1.82,Low Stock,246,Safe
+M547,Ibuprofen,Painkiller,HealthCorp,167,64,0.53,7/27/2026,3/11/2026,88.51,In Stock,111,Safe
+M548,Amlodipine,Hypertension,GlobalMed,109,52,1.91,11/22/2026,2/8/2026,208.19,In Stock,229,Safe
+M549,Vitamin C,Supplement,HealthCorp,148,96,0.88,7/5/2026,11/27/2025,130.24,In Stock,89,Safe
+M550,Vitamin C,Supplement,MedSupply Co,83,100,0.84,12/2/2026,4/5/2026,69.72,Low Stock,239,Safe
+M551,Metformin,Diabetes,GlobalMed,43,49,1.94,5/15/2026,12/20/2025,83.42,Low Stock,38,Safe
+M552,Ibuprofen,Painkiller,GlobalMed,184,79,0.52,11/5/2026,1/6/2026,95.68,In Stock,212,Safe
+M553,Amlodipine,Hypertension,GlobalMed,130,72,1.59,12/6/2026,1/18/2026,206.7,In Stock,243,Safe
+M554,Omeprazole,Antacid,MedSupply Co,131,50,1.88,1/3/2027,2/2/2026,246.28,In Stock,271,Safe
+M555,Azithromycin,Antibiotic,HealthCorp,78,93,0.84,4/7/2027,2/5/2026,65.52,Low Stock,365,Safe
+M556,Losartan,Hypertension,GlobalMed,89,37,1.4,8/25/2026,11/5/2025,124.6,In Stock,140,Safe
+M557,Amlodipine,Hypertension,HealthCorp,95,95,1.25,1/18/2027,1/13/2026,118.75,In Stock,286,Safe
+M558,Omeprazole,Antacid,MedSupply Co,48,78,1.09,6/2/2026,11/21/2025,52.32,Low Stock,56,Safe
+M559,Paracetamol,Painkiller,PharmaPlus,23,21,0.72,1/1/2027,11/10/2025,16.56,In Stock,269,Safe
+M560,Ibuprofen,Painkiller,HealthCorp,174,76,1.21,6/29/2026,12/6/2025,210.54,In Stock,83,Safe
+M561,Metformin,Diabetes,HealthCorp,80,72,0.67,2/26/2027,12/10/2025,53.6,In Stock,325,Safe
+M562,Vitamin C,Supplement,MedSupply Co,96,61,1.86,3/2/2027,2/17/2026,178.56,In Stock,329,Safe
+M563,Ibuprofen,Painkiller,HealthCorp,15,54,1.07,10/8/2026,2/22/2026,16.05,Low Stock,184,Safe
+M564,Paracetamol,Painkiller,HealthCorp,96,24,1.74,10/30/2026,11/18/2025,167.04,In Stock,206,Safe
+M565,Azithromycin,Antibiotic,PharmaPlus,139,74,1.98,11/26/2026,3/6/2026,275.22,In Stock,233,Safe
+M566,Vitamin C,Supplement,HealthCorp,57,27,1.43,6/20/2026,3/24/2026,81.51,In Stock,74,Safe
+M567,Azithromycin,Antibiotic,PharmaPlus,144,100,1.38,11/27/2026,1/19/2026,198.72,In Stock,234,Safe
+M568,Azithromycin,Antibiotic,PharmaPlus,186,100,1.88,10/11/2026,12/16/2025,349.68,In Stock,187,Safe
+M569,Amlodipine,Hypertension,PharmaPlus,49,82,1.43,3/8/2027,11/5/2025,70.07,Low Stock,335,Safe
+M570,Omeprazole,Antacid,HealthCorp,185,91,1.92,12/6/2026,2/3/2026,355.2,In Stock,243,Safe
+M571,Cetirizine,Antihistamine,MedSupply Co,180,85,1.99,10/27/2026,11/30/2025,358.2,In Stock,203,Safe
+M572,Losartan,Hypertension,MedSupply Co,70,100,1.43,3/15/2027,2/15/2026,100.1,Low Stock,342,Safe
+M573,Azithromycin,Antibiotic,HealthCorp,146,34,1.47,8/13/2026,11/19/2025,214.62,In Stock,128,Safe
+M574,Losartan,Hypertension,HealthCorp,104,98,1.34,5/14/2026,3/23/2026,139.36,In Stock,37,Safe
+M575,Omeprazole,Antacid,MedSupply Co,82,85,0.83,11/13/2026,1/23/2026,68.06,Low Stock,220,Safe
+M576,Amlodipine,Hypertension,MedSupply Co,122,73,1.08,5/31/2026,11/25/2025,131.76,In Stock,54,Safe
+M577,Metformin,Diabetes,MedSupply Co,118,63,0.8,9/14/2026,10/31/2025,94.4,In Stock,160,Safe
+M578,Vitamin C,Supplement,PharmaPlus,122,45,1.8,2/18/2027,10/28/2025,219.6,In Stock,317,Safe
+M579,Vitamin C,Supplement,MedSupply Co,53,64,1.61,12/4/2026,3/17/2026,85.33,Low Stock,241,Safe
+M580,Metformin,Diabetes,MedSupply Co,82,82,2,11/21/2026,2/8/2026,164,In Stock,228,Safe
+M581,Losartan,Hypertension,MedSupply Co,192,43,0.65,12/27/2026,11/6/2025,124.8,In Stock,264,Safe
+M582,Cetirizine,Antihistamine,MedSupply Co,50,36,0.72,11/4/2026,11/15/2025,36,In Stock,211,Safe
+M583,Azithromycin,Antibiotic,GlobalMed,138,53,1.92,12/18/2026,2/20/2026,264.96,In Stock,255,Safe
+M584,Omeprazole,Antacid,PharmaPlus,20,42,0.5,2/28/2027,3/27/2026,10,Low Stock,327,Safe
+M585,Cetirizine,Antihistamine,HealthCorp,88,29,1.09,9/14/2026,12/22/2025,95.92,In Stock,160,Safe
+M586,Metformin,Diabetes,PharmaPlus,77,41,0.8,1/29/2027,10/30/2025,61.6,In Stock,297,Safe
+M587,Cetirizine,Antihistamine,HealthCorp,109,36,1.85,2/5/2027,3/16/2026,201.65,In Stock,304,Safe
+M588,Metformin,Diabetes,HealthCorp,166,89,0.63,7/31/2026,10/27/2025,104.58,In Stock,115,Safe
+M589,Cetirizine,Antihistamine,MedSupply Co,131,22,1.61,6/5/2026,1/8/2026,210.91,In Stock,59,Safe
+M590,Metformin,Diabetes,PharmaPlus,156,81,0.52,11/30/2026,2/14/2026,81.12,In Stock,237,Safe
+M591,Omeprazole,Antacid,MedSupply Co,100,87,0.56,11/23/2026,3/29/2026,56,In Stock,230,Safe
+M592,Azithromycin,Antibiotic,GlobalMed,92,34,1.94,1/12/2027,2/1/2026,178.48,In Stock,280,Safe
+M593,Cetirizine,Antihistamine,HealthCorp,52,77,0.74,11/30/2026,1/11/2026,38.48,Low Stock,237,Safe
+M594,Amlodipine,Hypertension,PharmaPlus,175,74,1.65,6/6/2026,10/23/2025,288.75,In Stock,60,Safe
+M595,Amoxicillin,Antibiotic,GlobalMed,12,88,1.21,11/5/2026,2/25/2026,14.52,Low Stock,212,Safe
+M596,Azithromycin,Antibiotic,HealthCorp,172,42,1.02,6/27/2026,12/4/2025,175.44,In Stock,81,Safe
+M597,Azithromycin,Antibiotic,PharmaPlus,186,92,0.61,2/18/2027,3/21/2026,113.46,In Stock,317,Safe
+M598,Metformin,Diabetes,PharmaPlus,39,72,1.99,8/25/2026,10/31/2025,77.61,Low Stock,140,Safe
+M599,Omeprazole,Antacid,MedSupply Co,53,32,1.84,6/28/2026,3/12/2026,97.52,In Stock,82,Safe
+M600,Amlodipine,Hypertension,PharmaPlus,63,41,0.92,4/7/2027,1/21/2026,57.96,In Stock,365,Safe
+M601,Ibuprofen,Painkiller,MedSupply Co,19,63,1.48,3/22/2027,4/3/2026,28.12,Low Stock,349,Safe
+M602,Metformin,Diabetes,HealthCorp,180,56,1.31,9/15/2026,12/23/2025,235.8,In Stock,161,Safe
+M603,Losartan,Hypertension,GlobalMed,58,56,1.95,8/29/2026,2/4/2026,113.1,In Stock,144,Safe
+M604,Omeprazole,Antacid,GlobalMed,84,76,0.67,5/21/2026,3/3/2026,56.28,In Stock,44,Safe
+M605,Azithromycin,Antibiotic,HealthCorp,87,69,1.85,3/6/2027,11/7/2025,160.95,In Stock,333,Safe
+M606,Amoxicillin,Antibiotic,HealthCorp,20,96,0.76,3/18/2027,2/11/2026,15.2,Low Stock,345,Safe
+M607,Amoxicillin,Antibiotic,HealthCorp,165,72,1.89,7/18/2026,10/26/2025,311.85,In Stock,102,Safe
+M608,Vitamin C,Supplement,MedSupply Co,167,46,0.64,12/25/2026,10/21/2025,106.88,In Stock,262,Safe
+M609,Paracetamol,Painkiller,GlobalMed,111,34,1.05,12/3/2026,3/7/2026,116.55,In Stock,240,Safe
+M610,Losartan,Hypertension,GlobalMed,50,37,1,5/23/2026,4/6/2026,50,In Stock,46,Safe
+M611,Losartan,Hypertension,GlobalMed,164,22,1.78,7/16/2026,11/26/2025,291.92,In Stock,100,Safe
+M612,Amlodipine,Hypertension,PharmaPlus,12,29,0.53,6/26/2026,11/13/2025,6.36,Low Stock,80,Safe
+M613,Losartan,Hypertension,GlobalMed,117,47,0.75,12/16/2026,2/20/2026,87.75,In Stock,253,Safe
+M614,Ibuprofen,Painkiller,GlobalMed,189,93,0.53,7/14/2026,1/5/2026,100.17,In Stock,98,Safe
+M615,Cetirizine,Antihistamine,PharmaPlus,80,95,1.2,10/15/2026,3/16/2026,96,Low Stock,191,Safe
+M616,Omeprazole,Antacid,GlobalMed,92,25,0.61,9/9/2026,1/28/2026,56.12,In Stock,155,Safe
+M617,Losartan,Hypertension,MedSupply Co,43,43,1.78,8/25/2026,1/11/2026,76.54,In Stock,140,Safe
+M618,Ibuprofen,Painkiller,HealthCorp,140,63,1.82,11/9/2026,11/26/2025,254.8,In Stock,216,Safe
+M619,Omeprazole,Antacid,MedSupply Co,166,49,1.69,11/17/2026,2/28/2026,280.54,In Stock,224,Safe
+M620,Azithromycin,Antibiotic,HealthCorp,141,94,1.41,11/18/2026,11/11/2025,198.81,In Stock,225,Safe
+M621,Paracetamol,Painkiller,GlobalMed,198,92,0.83,1/12/2027,12/17/2025,164.34,In Stock,280,Safe
+M622,Amlodipine,Hypertension,GlobalMed,136,41,1.15,10/30/2026,12/15/2025,156.4,In Stock,206,Safe
+M623,Amoxicillin,Antibiotic,HealthCorp,164,21,0.51,1/8/2027,11/23/2025,83.64,In Stock,276,Safe
+M624,Vitamin C,Supplement,PharmaPlus,47,48,1.16,12/27/2026,10/21/2025,54.52,Low Stock,264,Safe
+M625,Cetirizine,Antihistamine,GlobalMed,191,36,1.34,3/12/2027,11/14/2025,255.94,In Stock,339,Safe
+M626,Azithromycin,Antibiotic,HealthCorp,80,68,1.83,7/12/2026,2/11/2026,146.4,In Stock,96,Safe
+M627,Azithromycin,Antibiotic,PharmaPlus,98,38,0.95,10/7/2026,1/20/2026,93.1,In Stock,183,Safe
+M628,Losartan,Hypertension,GlobalMed,173,34,1.45,5/25/2026,11/27/2025,250.85,In Stock,48,Safe
+M629,Vitamin C,Supplement,HealthCorp,194,99,0.72,8/16/2026,2/22/2026,139.68,In Stock,131,Safe
+M630,Ibuprofen,Painkiller,MedSupply Co,189,78,0.56,9/18/2026,1/22/2026,105.84,In Stock,164,Safe
+M631,Omeprazole,Antacid,PharmaPlus,125,33,1.29,10/31/2026,11/14/2025,161.25,In Stock,207,Safe
+M632,Ibuprofen,Painkiller,MedSupply Co,87,23,1.5,8/9/2026,11/5/2025,130.5,In Stock,124,Safe
+M633,Losartan,Hypertension,PharmaPlus,179,84,1.25,7/13/2026,12/6/2025,223.75,In Stock,97,Safe
+M634,Ibuprofen,Painkiller,GlobalMed,113,57,1.89,9/17/2026,12/3/2025,213.57,In Stock,163,Safe
+M635,Omeprazole,Antacid,PharmaPlus,196,79,1.12,12/4/2026,3/11/2026,219.52,In Stock,241,Safe
+M636,Metformin,Diabetes,GlobalMed,123,52,0.77,9/21/2026,12/15/2025,94.71,In Stock,167,Safe
+M637,Amlodipine,Hypertension,MedSupply Co,149,40,1.55,10/10/2026,11/28/2025,230.95,In Stock,186,Safe
+M638,Cetirizine,Antihistamine,MedSupply Co,91,83,1.79,11/26/2026,2/12/2026,162.89,In Stock,233,Safe
+M639,Omeprazole,Antacid,PharmaPlus,121,69,1.37,8/17/2026,10/28/2025,165.77,In Stock,132,Safe
+M640,Omeprazole,Antacid,HealthCorp,132,85,1.96,10/1/2026,12/13/2025,258.72,In Stock,177,Safe
+M641,Amoxicillin,Antibiotic,GlobalMed,38,52,1.06,1/27/2027,3/15/2026,40.28,Low Stock,295,Safe
+M642,Ibuprofen,Painkiller,GlobalMed,116,71,1.22,1/19/2027,1/24/2026,141.52,In Stock,287,Safe
+M643,Amoxicillin,Antibiotic,HealthCorp,26,85,0.87,9/5/2026,2/8/2026,22.62,Low Stock,151,Safe
+M644,Ibuprofen,Painkiller,PharmaPlus,48,64,1.47,10/13/2026,4/5/2026,70.56,Low Stock,189,Safe
+M645,Azithromycin,Antibiotic,HealthCorp,76,50,1.71,7/2/2026,11/24/2025,129.96,In Stock,86,Safe
+M646,Azithromycin,Antibiotic,PharmaPlus,126,96,1.36,6/13/2026,12/27/2025,171.36,In Stock,67,Safe
+M647,Azithromycin,Antibiotic,PharmaPlus,122,87,1.21,11/28/2026,10/12/2025,147.62,In Stock,235,Safe
+M648,Omeprazole,Antacid,GlobalMed,200,25,1.61,6/17/2026,3/21/2026,322,In Stock,71,Safe
+M649,Vitamin C,Supplement,HealthCorp,162,33,1.16,5/22/2026,1/8/2026,187.92,In Stock,45,Safe
+M650,Amoxicillin,Antibiotic,MedSupply Co,132,22,1.06,12/16/2026,11/28/2025,139.92,In Stock,253,Safe
+M651,Omeprazole,Antacid,GlobalMed,166,61,1.48,11/30/2026,1/10/2026,245.68,In Stock,237,Safe
+M652,Amlodipine,Hypertension,HealthCorp,70,93,0.57,4/2/2027,12/9/2025,39.9,Low Stock,360,Safe
+M653,Paracetamol,Painkiller,PharmaPlus,149,36,1.8,7/15/2026,10/13/2025,268.2,In Stock,99,Safe
+M654,Omeprazole,Antacid,HealthCorp,41,81,1.37,5/24/2026,11/23/2025,56.17,Low Stock,47,Safe
+M655,Amoxicillin,Antibiotic,GlobalMed,187,39,0.77,8/30/2026,11/27/2025,143.99,In Stock,145,Safe
+M656,Cetirizine,Antihistamine,GlobalMed,100,54,1.08,5/19/2026,3/9/2026,108,In Stock,42,Safe
+M657,Vitamin C,Supplement,HealthCorp,0,83,1.61,5/15/2026,12/24/2025,0,Out of Stock,38,Safe
+M658,Azithromycin,Antibiotic,MedSupply Co,89,21,0.78,6/8/2026,10/20/2025,69.42,In Stock,62,Safe
+M659,Cetirizine,Antihistamine,GlobalMed,140,22,1.97,9/5/2026,11/12/2025,275.8,In Stock,151,Safe
+M660,Cetirizine,Antihistamine,MedSupply Co,119,47,0.88,11/14/2026,11/24/2025,104.72,In Stock,221,Safe
+M661,Cetirizine,Antihistamine,MedSupply Co,120,38,1.14,7/14/2026,1/5/2026,136.8,In Stock,98,Safe
+M662,Metformin,Diabetes,HealthCorp,28,65,1.85,2/20/2027,11/15/2025,51.8,Low Stock,319,Safe
+M663,Vitamin C,Supplement,HealthCorp,94,30,1.58,6/12/2026,3/24/2026,148.52,In Stock,66,Safe
+M664,Vitamin C,Supplement,GlobalMed,3,51,0.62,10/21/2026,1/3/2026,1.86,Low Stock,197,Safe
+M665,Losartan,Hypertension,PharmaPlus,49,32,1.13,12/3/2026,1/31/2026,55.37,In Stock,240,Safe
+M666,Ibuprofen,Painkiller,MedSupply Co,140,92,1.59,2/19/2027,11/21/2025,222.6,In Stock,318,Safe
+M667,Azithromycin,Antibiotic,GlobalMed,198,26,1.45,1/27/2027,2/1/2026,287.1,In Stock,295,Safe
+M668,Cetirizine,Antihistamine,MedSupply Co,123,94,1.13,7/6/2026,1/5/2026,138.99,In Stock,90,Safe
+M669,Vitamin C,Supplement,MedSupply Co,87,100,1.54,5/23/2026,12/3/2025,133.98,Low Stock,46,Safe
+M670,Vitamin C,Supplement,PharmaPlus,125,86,2,3/16/2027,11/20/2025,250,In Stock,343,Safe
+M671,Omeprazole,Antacid,HealthCorp,57,86,0.56,11/10/2026,10/11/2025,31.92,Low Stock,217,Safe
+M672,Losartan,Hypertension,PharmaPlus,164,100,1.86,2/4/2027,1/10/2026,305.04,In Stock,303,Safe
+M673,Vitamin C,Supplement,PharmaPlus,58,100,0.83,4/5/2027,2/24/2026,48.14,Low Stock,363,Safe
+M674,Omeprazole,Antacid,HealthCorp,156,90,0.64,3/9/2027,1/11/2026,99.84,In Stock,336,Safe
+M675,Vitamin C,Supplement,MedSupply Co,165,47,1.89,9/18/2026,3/11/2026,311.85,In Stock,164,Safe
+M676,Losartan,Hypertension,PharmaPlus,68,31,1.37,12/19/2026,12/15/2025,93.16,In Stock,256,Safe
+M677,Azithromycin,Antibiotic,GlobalMed,16,57,1.01,11/30/2026,12/26/2025,16.16,Low Stock,237,Safe
+M678,Ibuprofen,Painkiller,GlobalMed,103,65,1.53,10/23/2026,12/18/2025,157.59,In Stock,199,Safe
+M679,Omeprazole,Antacid,PharmaPlus,187,85,0.7,6/28/2026,12/3/2025,130.9,In Stock,82,Safe
+M680,Losartan,Hypertension,GlobalMed,82,50,1.73,9/18/2026,11/5/2025,141.86,In Stock,164,Safe
+M681,Cetirizine,Antihistamine,GlobalMed,141,66,1.61,12/22/2026,2/17/2026,227.01,In Stock,259,Safe
+M682,Cetirizine,Antihistamine,MedSupply Co,39,46,0.68,7/31/2026,1/11/2026,26.52,Low Stock,115,Safe
+M683,Omeprazole,Antacid,PharmaPlus,102,59,1.33,3/18/2027,2/17/2026,135.66,In Stock,345,Safe
+M684,Cetirizine,Antihistamine,HealthCorp,2,31,1.9,2/11/2027,12/4/2025,3.8,Low Stock,310,Safe
+M685,Amlodipine,Hypertension,HealthCorp,170,66,1.85,12/8/2026,10/31/2025,314.5,In Stock,245,Safe
+M686,Vitamin C,Supplement,MedSupply Co,10,27,1.23,9/22/2026,2/19/2026,12.3,Low Stock,168,Safe
+M687,Ibuprofen,Painkiller,HealthCorp,112,80,1.74,8/27/2026,3/24/2026,194.88,In Stock,142,Safe
+M688,Losartan,Hypertension,MedSupply Co,51,79,1.95,1/28/2027,1/7/2026,99.45,Low Stock,296,Safe
+M689,Cetirizine,Antihistamine,PharmaPlus,191,98,1.98,9/21/2026,10/21/2025,378.18,In Stock,167,Safe
+M690,Amlodipine,Hypertension,PharmaPlus,171,47,1.94,2/11/2027,1/3/2026,331.74,In Stock,310,Safe
+M691,Metformin,Diabetes,GlobalMed,135,87,1.55,8/1/2026,12/17/2025,209.25,In Stock,116,Safe
+M692,Ibuprofen,Painkiller,GlobalMed,179,75,1.87,4/5/2027,1/8/2026,334.73,In Stock,363,Safe
+M693,Amlodipine,Hypertension,GlobalMed,64,89,1.35,8/29/2026,11/18/2025,86.4,Low Stock,144,Safe
+M694,Paracetamol,Painkiller,GlobalMed,87,87,0.63,10/29/2026,12/2/2025,54.81,In Stock,205,Safe
+M695,Vitamin C,Supplement,HealthCorp,56,40,1.71,8/26/2026,10/13/2025,95.76,In Stock,141,Safe
+M696,Amoxicillin,Antibiotic,PharmaPlus,127,88,1.54,3/21/2027,12/2/2025,195.58,In Stock,348,Safe
+M697,Ibuprofen,Painkiller,HealthCorp,0,81,0.53,3/30/2027,11/17/2025,0,Out of Stock,357,Safe
+M698,Metformin,Diabetes,HealthCorp,157,96,0.66,6/26/2026,11/14/2025,103.62,In Stock,80,Safe
+M699,Metformin,Diabetes,MedSupply Co,128,82,1.78,3/11/2027,1/14/2026,227.84,In Stock,338,Safe
+M700,Vitamin C,Supplement,PharmaPlus,28,66,0.69,10/12/2026,10/25/2025,19.32,Low Stock,188,Safe
+M701,Amoxicillin,Antibiotic,HealthCorp,64,44,1.27,1/29/2027,1/26/2026,81.28,In Stock,297,Safe
+M702,Ibuprofen,Painkiller,PharmaPlus,52,65,1.04,8/30/2026,1/22/2026,54.08,Low Stock,145,Safe
+M703,Losartan,Hypertension,HealthCorp,12,24,1.37,6/5/2026,3/5/2026,16.44,Low Stock,59,Safe
+M704,Metformin,Diabetes,GlobalMed,30,35,1.23,9/16/2026,3/5/2026,36.9,Low Stock,162,Safe
+M705,Azithromycin,Antibiotic,PharmaPlus,12,80,0.89,1/24/2027,12/24/2025,10.68,Low Stock,292,Safe
+M706,Amoxicillin,Antibiotic,GlobalMed,104,55,1.27,6/10/2026,2/12/2026,132.08,In Stock,64,Safe
+M707,Azithromycin,Antibiotic,HealthCorp,10,36,1.6,8/4/2026,11/7/2025,16,Low Stock,119,Safe
+M708,Paracetamol,Painkiller,PharmaPlus,39,49,1.42,8/27/2026,4/5/2026,55.38,Low Stock,142,Safe
+M709,Ibuprofen,Painkiller,MedSupply Co,175,61,1.66,7/6/2026,1/5/2026,290.5,In Stock,90,Safe
+M710,Paracetamol,Painkiller,MedSupply Co,158,77,1.42,2/17/2027,11/14/2025,224.36,In Stock,316,Safe
+M711,Losartan,Hypertension,MedSupply Co,20,76,1.28,6/14/2026,11/1/2025,25.6,Low Stock,68,Safe
+M712,Vitamin C,Supplement,GlobalMed,137,56,1.37,12/25/2026,2/22/2026,187.69,In Stock,262,Safe
+M713,Metformin,Diabetes,HealthCorp,148,32,1.64,9/26/2026,12/23/2025,242.72,In Stock,172,Safe
+M714,Omeprazole,Antacid,PharmaPlus,88,57,1.74,9/16/2026,1/14/2026,153.12,In Stock,162,Safe
+M715,Metformin,Diabetes,GlobalMed,4,87,0.77,5/20/2026,12/23/2025,3.08,Low Stock,43,Safe
+M716,Amoxicillin,Antibiotic,HealthCorp,197,86,1.38,7/2/2026,1/18/2026,271.86,In Stock,86,Safe
+M717,Amoxicillin,Antibiotic,MedSupply Co,58,87,0.86,9/8/2026,10/25/2025,49.88,Low Stock,154,Safe
+M718,Losartan,Hypertension,MedSupply Co,82,95,1.3,6/7/2026,12/22/2025,106.6,Low Stock,61,Safe
+M719,Paracetamol,Painkiller,MedSupply Co,108,69,0.57,10/17/2026,1/7/2026,61.56,In Stock,193,Safe
+M720,Vitamin C,Supplement,PharmaPlus,60,94,1.56,3/22/2027,1/23/2026,93.6,Low Stock,349,Safe
+M721,Metformin,Diabetes,PharmaPlus,83,85,0.69,5/22/2026,1/2/2026,57.27,Low Stock,45,Safe
+M722,Losartan,Hypertension,GlobalMed,172,59,1.06,4/1/2027,2/27/2026,182.32,In Stock,359,Safe
+M723,Azithromycin,Antibiotic,GlobalMed,200,33,0.91,3/22/2027,10/16/2025,182,In Stock,349,Safe
+M724,Amlodipine,Hypertension,HealthCorp,161,47,1.12,2/19/2027,2/15/2026,180.32,In Stock,318,Safe
+M725,Azithromycin,Antibiotic,PharmaPlus,73,67,0.54,11/8/2026,11/16/2025,39.42,In Stock,215,Safe
+M726,Vitamin C,Supplement,GlobalMed,184,23,1.24,9/28/2026,2/20/2026,228.16,In Stock,174,Safe
+M727,Losartan,Hypertension,HealthCorp,156,87,0.78,9/27/2026,2/16/2026,121.68,In Stock,173,Safe
+M728,Azithromycin,Antibiotic,GlobalMed,121,71,1.45,11/5/2026,2/21/2026,175.45,In Stock,212,Safe
+M729,Ibuprofen,Painkiller,MedSupply Co,90,41,1.74,1/20/2027,3/21/2026,156.6,In Stock,288,Safe
+M730,Cetirizine,Antihistamine,HealthCorp,63,45,1.89,3/2/2027,10/31/2025,119.07,In Stock,329,Safe
+M731,Azithromycin,Antibiotic,PharmaPlus,31,84,1.05,11/7/2026,11/12/2025,32.55,Low Stock,214,Safe
+M732,Vitamin C,Supplement,GlobalMed,13,37,0.54,1/12/2027,11/11/2025,7.02,Low Stock,280,Safe
+M733,Metformin,Diabetes,MedSupply Co,95,31,1.07,11/24/2026,1/6/2026,101.65,In Stock,231,Safe
+M734,Amoxicillin,Antibiotic,HealthCorp,142,87,1.03,2/27/2027,3/9/2026,146.26,In Stock,326,Safe
+M735,Amoxicillin,Antibiotic,PharmaPlus,196,96,1.04,5/10/2026,12/14/2025,203.84,In Stock,33,Safe
+M736,Metformin,Diabetes,PharmaPlus,31,25,0.7,1/25/2027,11/7/2025,21.7,In Stock,293,Safe
+M737,Paracetamol,Painkiller,GlobalMed,194,81,1.69,5/17/2026,10/14/2025,327.86,In Stock,40,Safe
+M738,Paracetamol,Painkiller,PharmaPlus,191,48,1.47,8/30/2026,3/16/2026,280.77,In Stock,145,Safe
+M739,Azithromycin,Antibiotic,PharmaPlus,173,40,0.62,10/25/2026,1/9/2026,107.26,In Stock,201,Safe
+M740,Metformin,Diabetes,MedSupply Co,184,32,1.81,6/5/2026,2/17/2026,333.04,In Stock,59,Safe
+M741,Cetirizine,Antihistamine,PharmaPlus,127,93,1.63,12/24/2026,1/12/2026,207.01,In Stock,261,Safe
+M742,Metformin,Diabetes,GlobalMed,84,47,1.58,10/15/2026,10/30/2025,132.72,In Stock,191,Safe
+M743,Vitamin C,Supplement,HealthCorp,43,63,0.93,5/30/2026,1/2/2026,39.99,Low Stock,53,Safe
+M744,Azithromycin,Antibiotic,GlobalMed,58,62,1.61,1/27/2027,11/18/2025,93.38,Low Stock,295,Safe
+M745,Azithromycin,Antibiotic,GlobalMed,59,28,1.61,5/20/2026,11/11/2025,94.99,In Stock,43,Safe
+M746,Azithromycin,Antibiotic,PharmaPlus,181,67,1.5,8/10/2026,11/24/2025,271.5,In Stock,125,Safe
+M747,Metformin,Diabetes,PharmaPlus,126,61,1.09,6/30/2026,3/21/2026,137.34,In Stock,84,Safe
+M748,Ibuprofen,Painkiller,MedSupply Co,45,21,0.82,8/15/2026,12/8/2025,36.9,In Stock,130,Safe
+M749,Amoxicillin,Antibiotic,PharmaPlus,142,34,1.82,6/21/2026,3/8/2026,258.44,In Stock,75,Safe
+M750,Amlodipine,Hypertension,MedSupply Co,28,77,0.82,9/4/2026,11/13/2025,22.96,Low Stock,150,Safe
+M751,Amlodipine,Hypertension,HealthCorp,156,48,1.97,3/8/2027,11/30/2025,307.32,In Stock,335,Safe
+M752,Vitamin C,Supplement,PharmaPlus,116,86,0.91,7/4/2026,1/10/2026,105.56,In Stock,88,Safe
+M753,Omeprazole,Antacid,HealthCorp,14,34,1.88,11/22/2026,2/22/2026,26.32,Low Stock,229,Safe
+M754,Losartan,Hypertension,PharmaPlus,98,75,0.84,10/9/2026,2/12/2026,82.32,In Stock,185,Safe
+M755,Omeprazole,Antacid,HealthCorp,174,72,1.55,11/12/2026,12/31/2025,269.7,In Stock,219,Safe
+M756,Paracetamol,Painkiller,PharmaPlus,95,27,1.55,3/26/2027,12/13/2025,147.25,In Stock,353,Safe
+M757,Metformin,Diabetes,PharmaPlus,118,75,0.73,7/16/2026,1/7/2026,86.14,In Stock,100,Safe
+M758,Ibuprofen,Painkiller,GlobalMed,93,58,1.28,12/24/2026,11/7/2025,119.04,In Stock,261,Safe
+M759,Losartan,Hypertension,HealthCorp,40,82,1.53,5/28/2026,3/11/2026,61.2,Low Stock,51,Safe
+M760,Metformin,Diabetes,MedSupply Co,197,97,1.15,1/11/2027,10/30/2025,226.55,In Stock,279,Safe
+M761,Vitamin C,Supplement,HealthCorp,93,32,1.71,11/24/2026,10/30/2025,159.03,In Stock,231,Safe
+M762,Losartan,Hypertension,GlobalMed,176,82,0.59,3/1/2027,12/16/2025,103.84,In Stock,328,Safe
+M763,Amlodipine,Hypertension,PharmaPlus,41,47,1.49,12/7/2026,3/23/2026,61.09,Low Stock,244,Safe
+M764,Azithromycin,Antibiotic,GlobalMed,79,48,1.28,5/25/2026,10/29/2025,101.12,In Stock,48,Safe
+M765,Vitamin C,Supplement,MedSupply Co,159,85,1.17,3/17/2027,3/18/2026,186.03,In Stock,344,Safe
+M766,Paracetamol,Painkiller,MedSupply Co,158,26,0.93,9/12/2026,2/25/2026,146.94,In Stock,158,Safe
+M767,Amoxicillin,Antibiotic,HealthCorp,163,83,0.85,7/14/2026,10/25/2025,138.55,In Stock,98,Safe
+M768,Paracetamol,Painkiller,PharmaPlus,69,94,0.62,5/8/2026,11/27/2025,42.78,Low Stock,31,Safe
+M769,Omeprazole,Antacid,HealthCorp,93,64,1.97,10/30/2026,3/4/2026,183.21,In Stock,206,Safe
+M770,Vitamin C,Supplement,HealthCorp,130,42,1.33,7/27/2026,2/18/2026,172.9,In Stock,111,Safe
+M771,Cetirizine,Antihistamine,GlobalMed,195,36,1.82,12/27/2026,3/3/2026,354.9,In Stock,264,Safe
+M772,Paracetamol,Painkiller,PharmaPlus,69,68,1.27,6/29/2026,12/22/2025,87.63,In Stock,83,Safe
+M773,Amoxicillin,Antibiotic,HealthCorp,183,94,0.58,4/7/2027,1/7/2026,106.14,In Stock,365,Safe
+M774,Azithromycin,Antibiotic,GlobalMed,198,90,1.44,5/22/2026,4/4/2026,285.12,In Stock,45,Safe
+M775,Paracetamol,Painkiller,PharmaPlus,198,68,1.88,1/19/2027,2/24/2026,372.24,In Stock,287,Safe
+M776,Omeprazole,Antacid,HealthCorp,41,36,1.62,2/11/2027,12/15/2025,66.42,In Stock,310,Safe
+M777,Losartan,Hypertension,PharmaPlus,66,57,1.42,1/8/2027,12/2/2025,93.72,In Stock,276,Safe
+M778,Losartan,Hypertension,HealthCorp,38,33,1.13,7/17/2026,12/18/2025,42.94,In Stock,101,Safe
+M779,Azithromycin,Antibiotic,HealthCorp,153,51,1.29,6/4/2026,2/14/2026,197.37,In Stock,58,Safe
+M780,Omeprazole,Antacid,MedSupply Co,42,96,1.5,6/24/2026,3/23/2026,63,Low Stock,78,Safe
+M781,Omeprazole,Antacid,MedSupply Co,74,88,0.66,7/17/2026,12/25/2025,48.84,Low Stock,101,Safe
+M782,Metformin,Diabetes,PharmaPlus,131,53,0.84,1/22/2027,2/20/2026,110.04,In Stock,290,Safe
+M783,Omeprazole,Antacid,HealthCorp,0,87,1.03,1/28/2027,12/16/2025,0,Out of Stock,296,Safe
+M784,Amlodipine,Hypertension,GlobalMed,47,58,1.29,3/17/2027,10/24/2025,60.63,Low Stock,344,Safe
+M785,Azithromycin,Antibiotic,HealthCorp,40,41,0.91,11/18/2026,11/23/2025,36.4,Low Stock,225,Safe
+M786,Paracetamol,Painkiller,PharmaPlus,142,44,0.94,1/2/2027,11/23/2025,133.48,In Stock,270,Safe
+M787,Cetirizine,Antihistamine,GlobalMed,168,42,0.76,1/14/2027,11/12/2025,127.68,In Stock,282,Safe
+M788,Losartan,Hypertension,HealthCorp,144,67,1.23,10/1/2026,4/3/2026,177.12,In Stock,177,Safe
+M789,Cetirizine,Antihistamine,MedSupply Co,9,21,1.4,12/26/2026,11/2/2025,12.6,Low Stock,263,Safe
+M790,Losartan,Hypertension,GlobalMed,3,80,0.65,10/27/2026,3/8/2026,1.95,Low Stock,203,Safe
+M791,Amoxicillin,Antibiotic,MedSupply Co,7,26,1.79,8/24/2026,1/4/2026,12.53,Low Stock,139,Safe
+M792,Losartan,Hypertension,GlobalMed,95,93,1.01,5/24/2026,12/17/2025,95.95,In Stock,47,Safe
+M793,Amoxicillin,Antibiotic,MedSupply Co,82,94,1.54,11/23/2026,3/2/2026,126.28,Low Stock,230,Safe
+M794,Omeprazole,Antacid,HealthCorp,80,67,1.34,11/24/2026,11/12/2025,107.2,In Stock,231,Safe
+M795,Ibuprofen,Painkiller,HealthCorp,113,45,0.77,5/12/2026,2/4/2026,87.01,In Stock,35,Safe
+M796,Amlodipine,Hypertension,GlobalMed,41,78,0.89,10/25/2026,12/15/2025,36.49,Low Stock,201,Safe
+M797,Metformin,Diabetes,MedSupply Co,54,31,0.79,6/7/2026,12/27/2025,42.66,In Stock,61,Safe
+M798,Paracetamol,Painkiller,MedSupply Co,50,93,1.35,6/10/2026,3/3/2026,67.5,Low Stock,64,Safe
+M799,Omeprazole,Antacid,GlobalMed,110,72,1.5,9/20/2026,12/4/2025,165,In Stock,166,Safe
+M800,Vitamin C,Supplement,PharmaPlus,154,64,0.83,9/25/2026,2/13/2026,127.82,In Stock,171,Safe
+M801,Metformin,Diabetes,HealthCorp,101,59,1.31,8/24/2026,2/21/2026,132.31,In Stock,139,Safe
+M802,Azithromycin,Antibiotic,PharmaPlus,137,54,1.23,6/7/2026,11/30/2025,168.51,In Stock,61,Safe
+M803,Amoxicillin,Antibiotic,HealthCorp,35,86,1.15,12/25/2026,3/16/2026,40.25,Low Stock,262,Safe
+M804,Amlodipine,Hypertension,MedSupply Co,13,78,0.9,12/22/2026,12/16/2025,11.7,Low Stock,259,Safe
+M805,Amlodipine,Hypertension,PharmaPlus,25,58,0.55,1/15/2027,10/14/2025,13.75,Low Stock,283,Safe
+M806,Amlodipine,Hypertension,GlobalMed,37,96,0.9,2/17/2027,1/4/2026,33.3,Low Stock,316,Safe
+M807,Vitamin C,Supplement,HealthCorp,109,78,1.41,2/3/2027,3/23/2026,153.69,In Stock,302,Safe
+M808,Metformin,Diabetes,MedSupply Co,120,69,1.89,7/26/2026,3/21/2026,226.8,In Stock,110,Safe
+M809,Vitamin C,Supplement,HealthCorp,148,21,0.94,3/11/2027,11/18/2025,139.12,In Stock,338,Safe
+M810,Omeprazole,Antacid,MedSupply Co,97,35,2,7/23/2026,11/10/2025,194,In Stock,107,Safe
+M811,Losartan,Hypertension,MedSupply Co,43,78,0.99,6/28/2026,10/26/2025,42.57,Low Stock,82,Safe
+M812,Amlodipine,Hypertension,HealthCorp,31,82,1.44,6/28/2026,10/21/2025,44.64,Low Stock,82,Safe
+M813,Losartan,Hypertension,GlobalMed,42,49,0.64,10/3/2026,12/30/2025,26.88,Low Stock,179,Safe
+M814,Ibuprofen,Painkiller,HealthCorp,49,51,1.47,8/25/2026,12/14/2025,72.03,Low Stock,140,Safe
+M815,Vitamin C,Supplement,HealthCorp,107,37,0.66,8/11/2026,1/23/2026,70.62,In Stock,126,Safe
+M816,Paracetamol,Painkiller,GlobalMed,25,62,1.41,7/25/2026,2/10/2026,35.25,Low Stock,109,Safe
+M817,Cetirizine,Antihistamine,MedSupply Co,151,89,0.86,7/31/2026,11/20/2025,129.86,In Stock,115,Safe
+M818,Ibuprofen,Painkiller,HealthCorp,144,25,1.77,5/21/2026,11/23/2025,254.88,In Stock,44,Safe
+M819,Azithromycin,Antibiotic,MedSupply Co,47,67,0.68,2/2/2027,10/18/2025,31.96,Low Stock,301,Safe
+M820,Losartan,Hypertension,MedSupply Co,132,92,1.56,5/26/2026,10/11/2025,205.92,In Stock,49,Safe
+M821,Azithromycin,Antibiotic,PharmaPlus,4,70,1.43,4/1/2027,3/1/2026,5.72,Low Stock,359,Safe
+M822,Paracetamol,Painkiller,MedSupply Co,177,73,1.57,3/16/2027,3/7/2026,277.89,In Stock,343,Safe
+M823,Azithromycin,Antibiotic,PharmaPlus,53,27,1.45,9/27/2026,3/10/2026,76.85,In Stock,173,Safe
+M824,Amlodipine,Hypertension,GlobalMed,11,29,1.21,6/6/2026,12/13/2025,13.31,Low Stock,60,Safe
+M825,Paracetamol,Painkiller,PharmaPlus,35,26,1.92,7/12/2026,10/22/2025,67.2,In Stock,96,Safe
+M826,Cetirizine,Antihistamine,PharmaPlus,187,63,0.72,2/23/2027,12/3/2025,134.64,In Stock,322,Safe
+M827,Amoxicillin,Antibiotic,HealthCorp,80,30,1.71,9/8/2026,10/31/2025,136.8,In Stock,154,Safe
+M828,Metformin,Diabetes,MedSupply Co,72,54,1.95,5/16/2026,4/1/2026,140.4,In Stock,39,Safe
+M829,Amoxicillin,Antibiotic,HealthCorp,163,32,1.17,3/13/2027,10/9/2025,190.71,In Stock,340,Safe
+M830,Losartan,Hypertension,HealthCorp,35,29,1.74,7/27/2026,10/21/2025,60.9,In Stock,111,Safe
+M831,Cetirizine,Antihistamine,PharmaPlus,124,22,1.14,5/25/2026,11/11/2025,141.36,In Stock,48,Safe
+M832,Metformin,Diabetes,GlobalMed,12,39,1.25,6/2/2026,1/31/2026,15,Low Stock,56,Safe
+M833,Cetirizine,Antihistamine,PharmaPlus,40,26,0.64,8/21/2026,2/2/2026,25.6,In Stock,136,Safe
+M834,Amlodipine,Hypertension,MedSupply Co,61,80,1.11,1/28/2027,3/17/2026,67.71,Low Stock,296,Safe
+M835,Ibuprofen,Painkiller,MedSupply Co,191,53,1.05,8/27/2026,3/24/2026,200.55,In Stock,142,Safe
+M836,Azithromycin,Antibiotic,PharmaPlus,84,76,1.3,7/13/2026,11/13/2025,109.2,In Stock,97,Safe
+M837,Ibuprofen,Painkiller,HealthCorp,65,80,1.38,2/21/2027,1/16/2026,89.7,Low Stock,320,Safe
+M838,Paracetamol,Painkiller,HealthCorp,16,92,0.93,9/25/2026,11/19/2025,14.88,Low Stock,171,Safe
+M839,Azithromycin,Antibiotic,HealthCorp,154,52,1.82,11/8/2026,1/23/2026,280.28,In Stock,215,Safe
+M840,Ibuprofen,Painkiller,GlobalMed,153,30,1.76,3/29/2027,10/14/2025,269.28,In Stock,356,Safe
+M841,Paracetamol,Painkiller,HealthCorp,119,62,1.95,3/3/2027,11/3/2025,232.05,In Stock,330,Safe
+M842,Omeprazole,Antacid,GlobalMed,136,33,1.7,5/21/2026,10/18/2025,231.2,In Stock,44,Safe
+M843,Omeprazole,Antacid,MedSupply Co,101,93,1.29,8/10/2026,1/31/2026,130.29,In Stock,125,Safe
+M844,Vitamin C,Supplement,PharmaPlus,65,100,0.73,9/27/2026,2/10/2026,47.45,Low Stock,173,Safe
+M845,Amoxicillin,Antibiotic,MedSupply Co,5,83,1.12,3/31/2027,12/16/2025,5.6,Low Stock,358,Safe
+M846,Omeprazole,Antacid,PharmaPlus,197,91,0.51,12/3/2026,10/13/2025,100.47,In Stock,240,Safe
+M847,Amoxicillin,Antibiotic,GlobalMed,75,40,1.4,8/2/2026,1/2/2026,105,In Stock,117,Safe
+M848,Cetirizine,Antihistamine,GlobalMed,8,20,0.87,12/13/2026,2/9/2026,6.96,Low Stock,250,Safe
+M849,Amlodipine,Hypertension,PharmaPlus,71,85,1.07,5/9/2026,11/18/2025,75.97,Low Stock,32,Safe
+M850,Ibuprofen,Painkiller,PharmaPlus,103,60,1.03,8/28/2026,12/26/2025,106.09,In Stock,143,Safe
+M851,Paracetamol,Painkiller,HealthCorp,33,24,1.36,8/20/2026,4/6/2026,44.88,In Stock,135,Safe
+M852,Metformin,Diabetes,HealthCorp,35,73,1.15,8/16/2026,3/2/2026,40.25,Low Stock,131,Safe
+M853,Vitamin C,Supplement,MedSupply Co,169,53,0.73,2/10/2027,3/18/2026,123.37,In Stock,309,Safe
+M854,Azithromycin,Antibiotic,PharmaPlus,116,74,0.89,3/8/2027,1/27/2026,103.24,In Stock,335,Safe
+M855,Omeprazole,Antacid,PharmaPlus,156,21,1.1,12/5/2026,12/6/2025,171.6,In Stock,242,Safe
+M856,Amoxicillin,Antibiotic,MedSupply Co,70,71,0.62,10/10/2026,10/15/2025,43.4,Low Stock,186,Safe
+M857,Azithromycin,Antibiotic,HealthCorp,189,83,0.75,8/27/2026,3/12/2026,141.75,In Stock,142,Safe
+M858,Ibuprofen,Painkiller,PharmaPlus,200,45,0.95,7/25/2026,12/21/2025,190,In Stock,109,Safe
+M859,Losartan,Hypertension,MedSupply Co,115,77,1.26,12/4/2026,3/24/2026,144.9,In Stock,241,Safe
+M860,Ibuprofen,Painkiller,HealthCorp,158,41,0.59,4/4/2027,12/26/2025,93.22,In Stock,362,Safe
+M861,Amoxicillin,Antibiotic,MedSupply Co,97,36,1.62,3/6/2027,2/27/2026,157.14,In Stock,333,Safe
+M862,Ibuprofen,Painkiller,GlobalMed,63,69,0.52,7/13/2026,11/16/2025,32.76,Low Stock,97,Safe
+M863,Losartan,Hypertension,PharmaPlus,159,34,1.3,2/22/2027,12/27/2025,206.7,In Stock,321,Safe
+M864,Metformin,Diabetes,MedSupply Co,29,52,1.37,4/3/2027,12/1/2025,39.73,Low Stock,361,Safe
+M865,Cetirizine,Antihistamine,MedSupply Co,91,94,1.98,3/14/2027,11/4/2025,180.18,Low Stock,341,Safe
+M866,Paracetamol,Painkiller,GlobalMed,159,59,1.16,5/13/2026,1/6/2026,184.44,In Stock,36,Safe
+M867,Losartan,Hypertension,PharmaPlus,5,27,1.98,11/5/2026,3/4/2026,9.9,Low Stock,212,Safe
+M868,Ibuprofen,Painkiller,HealthCorp,48,64,0.9,1/15/2027,12/7/2025,43.2,Low Stock,283,Safe
+M869,Ibuprofen,Painkiller,MedSupply Co,115,99,1.04,7/17/2026,1/28/2026,119.6,In Stock,101,Safe
+M870,Paracetamol,Painkiller,MedSupply Co,52,39,1.37,9/8/2026,11/24/2025,71.24,In Stock,154,Safe
+M871,Amoxicillin,Antibiotic,MedSupply Co,11,20,1.32,10/23/2026,4/2/2026,14.52,Low Stock,199,Safe
+M872,Ibuprofen,Painkiller,PharmaPlus,103,74,1.52,12/3/2026,11/9/2025,156.56,In Stock,240,Safe
+M873,Cetirizine,Antihistamine,HealthCorp,95,88,0.88,1/7/2027,3/27/2026,83.6,In Stock,275,Safe
+M874,Vitamin C,Supplement,HealthCorp,130,88,0.58,9/25/2026,10/24/2025,75.4,In Stock,171,Safe
+M875,Amlodipine,Hypertension,MedSupply Co,181,69,1.52,12/14/2026,3/10/2026,275.12,In Stock,251,Safe
+M876,Paracetamol,Painkiller,MedSupply Co,7,50,1.8,8/3/2026,1/1/2026,12.6,Low Stock,118,Safe
+M877,Vitamin C,Supplement,HealthCorp,73,86,1.14,5/16/2026,3/18/2026,83.22,Low Stock,39,Safe
+M878,Omeprazole,Antacid,HealthCorp,63,71,1.62,8/29/2026,3/11/2026,102.06,Low Stock,144,Safe
+M879,Cetirizine,Antihistamine,MedSupply Co,34,38,1.85,5/7/2026,12/16/2025,62.9,Low Stock,30,Expiring Soon
+M880,Omeprazole,Antacid,HealthCorp,129,91,1.26,8/9/2026,12/5/2025,162.54,In Stock,124,Safe
+M881,Azithromycin,Antibiotic,MedSupply Co,188,55,1.67,10/23/2026,12/26/2025,313.96,In Stock,199,Safe
+M882,Ibuprofen,Painkiller,PharmaPlus,67,27,0.69,2/6/2027,1/13/2026,46.23,In Stock,305,Safe
+M883,Amoxicillin,Antibiotic,PharmaPlus,146,98,0.79,1/13/2027,1/15/2026,115.34,In Stock,281,Safe
+M884,Losartan,Hypertension,HealthCorp,115,58,0.82,3/24/2027,12/3/2025,94.3,In Stock,351,Safe
+M885,Amoxicillin,Antibiotic,GlobalMed,34,50,1.84,9/6/2026,1/25/2026,62.56,Low Stock,152,Safe
+M886,Vitamin C,Supplement,MedSupply Co,82,38,1.31,11/24/2026,2/1/2026,107.42,In Stock,231,Safe
+M887,Ibuprofen,Painkiller,GlobalMed,76,44,0.81,12/9/2026,1/19/2026,61.56,In Stock,246,Safe
+M888,Metformin,Diabetes,MedSupply Co,0,74,1.49,11/13/2026,12/13/2025,0,Out of Stock,220,Safe
+M889,Azithromycin,Antibiotic,GlobalMed,12,29,1.36,3/29/2027,3/24/2026,16.32,Low Stock,356,Safe
+M890,Azithromycin,Antibiotic,GlobalMed,32,40,1.01,10/13/2026,10/30/2025,32.32,Low Stock,189,Safe
+M891,Ibuprofen,Painkiller,GlobalMed,122,24,1.71,8/18/2026,2/22/2026,208.62,In Stock,133,Safe
+M892,Omeprazole,Antacid,PharmaPlus,53,65,1.38,2/10/2027,1/6/2026,73.14,Low Stock,309,Safe
+M893,Cetirizine,Antihistamine,MedSupply Co,77,79,1.16,2/19/2027,2/12/2026,89.32,Low Stock,318,Safe
+M894,Losartan,Hypertension,PharmaPlus,186,58,0.75,3/31/2027,4/3/2026,139.5,In Stock,358,Safe
+M895,Losartan,Hypertension,GlobalMed,139,77,1.94,7/19/2026,2/7/2026,269.66,In Stock,103,Safe
+M896,Cetirizine,Antihistamine,GlobalMed,39,66,0.55,7/6/2026,12/27/2025,21.45,Low Stock,90,Safe
+M897,Amlodipine,Hypertension,MedSupply Co,30,85,0.67,5/24/2026,3/2/2026,20.1,Low Stock,47,Safe
+M898,Amlodipine,Hypertension,MedSupply Co,183,51,1.52,2/3/2027,11/5/2025,278.16,In Stock,302,Safe
+M899,Paracetamol,Painkiller,MedSupply Co,181,61,1,6/12/2026,3/24/2026,181,In Stock,66,Safe
+M900,Amoxicillin,Antibiotic,HealthCorp,150,40,1.8,4/2/2027,1/16/2026,270,In Stock,360,Safe
+M901,Omeprazole,Antacid,HealthCorp,33,89,1.34,12/21/2026,2/19/2026,44.22,Low Stock,258,Safe
+M902,Omeprazole,Antacid,GlobalMed,106,59,1.14,6/30/2026,10/14/2025,120.84,In Stock,84,Safe
+M903,Metformin,Diabetes,GlobalMed,39,22,1.75,8/25/2026,3/29/2026,68.25,In Stock,140,Safe
+M904,Amoxicillin,Antibiotic,PharmaPlus,171,41,0.78,1/5/2027,2/9/2026,133.38,In Stock,273,Safe
+M905,Paracetamol,Painkiller,PharmaPlus,99,24,1.8,12/13/2026,1/11/2026,178.2,In Stock,250,Safe
+M906,Cetirizine,Antihistamine,GlobalMed,22,46,1.27,5/20/2026,1/26/2026,27.94,Low Stock,43,Safe
+M907,Vitamin C,Supplement,GlobalMed,185,86,1.73,11/23/2026,2/4/2026,320.05,In Stock,230,Safe
+M908,Amlodipine,Hypertension,PharmaPlus,101,32,0.93,11/22/2026,11/21/2025,93.93,In Stock,229,Safe
+M909,Metformin,Diabetes,HealthCorp,158,25,1.96,11/26/2026,3/4/2026,309.68,In Stock,233,Safe
+M910,Amlodipine,Hypertension,GlobalMed,75,65,1.34,12/7/2026,2/21/2026,100.5,In Stock,244,Safe
+M911,Omeprazole,Antacid,PharmaPlus,162,77,0.61,9/14/2026,12/17/2025,98.82,In Stock,160,Safe
+M912,Amoxicillin,Antibiotic,MedSupply Co,195,36,0.86,7/14/2026,2/24/2026,167.7,In Stock,98,Safe
+M913,Metformin,Diabetes,GlobalMed,167,64,1.53,12/24/2026,12/8/2025,255.51,In Stock,261,Safe
+M914,Metformin,Diabetes,GlobalMed,115,29,1.95,6/4/2026,12/7/2025,224.25,In Stock,58,Safe
+M915,Paracetamol,Painkiller,PharmaPlus,170,88,1.42,3/10/2027,11/15/2025,241.4,In Stock,337,Safe
+M916,Azithromycin,Antibiotic,MedSupply Co,125,61,0.94,11/11/2026,3/14/2026,117.5,In Stock,218,Safe
+M917,Amlodipine,Hypertension,HealthCorp,149,79,1.9,12/2/2026,11/23/2025,283.1,In Stock,239,Safe
+M918,Vitamin C,Supplement,PharmaPlus,14,56,1.81,12/19/2026,3/20/2026,25.34,Low Stock,256,Safe
+M919,Ibuprofen,Painkiller,MedSupply Co,106,64,1.64,12/1/2026,11/18/2025,173.84,In Stock,238,Safe
+M920,Losartan,Hypertension,GlobalMed,72,89,0.86,11/30/2026,11/1/2025,61.92,Low Stock,237,Safe
+M921,Metformin,Diabetes,MedSupply Co,107,87,0.57,1/1/2027,12/22/2025,60.99,In Stock,269,Safe
+M922,Amlodipine,Hypertension,PharmaPlus,156,27,1.17,2/17/2027,11/25/2025,182.52,In Stock,316,Safe
+M923,Losartan,Hypertension,GlobalMed,71,24,1.65,2/17/2027,4/4/2026,117.15,In Stock,316,Safe
+M924,Ibuprofen,Painkiller,MedSupply Co,55,81,2,5/7/2026,10/26/2025,110,Low Stock,30,Expiring Soon
+M925,Omeprazole,Antacid,GlobalMed,200,46,0.83,6/30/2026,2/1/2026,166,In Stock,84,Safe
+M926,Omeprazole,Antacid,HealthCorp,199,64,1.77,10/31/2026,1/13/2026,352.23,In Stock,207,Safe
+M927,Losartan,Hypertension,MedSupply Co,36,41,0.95,1/10/2027,3/18/2026,34.2,Low Stock,278,Safe
+M928,Azithromycin,Antibiotic,PharmaPlus,148,58,1.98,9/23/2026,10/12/2025,293.04,In Stock,169,Safe
+M929,Paracetamol,Painkiller,PharmaPlus,179,26,1.01,9/18/2026,12/31/2025,180.79,In Stock,164,Safe
+M930,Omeprazole,Antacid,GlobalMed,64,34,1.29,8/14/2026,10/20/2025,82.56,In Stock,129,Safe
+M931,Amoxicillin,Antibiotic,PharmaPlus,66,57,1.17,5/26/2026,2/9/2026,77.22,In Stock,49,Safe
+M932,Paracetamol,Painkiller,GlobalMed,86,80,1.45,7/15/2026,1/12/2026,124.7,In Stock,99,Safe
+M933,Cetirizine,Antihistamine,GlobalMed,37,41,1.18,9/27/2026,10/17/2025,43.66,Low Stock,173,Safe
+M934,Losartan,Hypertension,PharmaPlus,169,55,0.85,1/6/2027,1/4/2026,143.65,In Stock,274,Safe
+M935,Amoxicillin,Antibiotic,HealthCorp,175,22,1.9,2/23/2027,12/3/2025,332.5,In Stock,322,Safe
+M936,Vitamin C,Supplement,HealthCorp,52,84,1.59,6/29/2026,12/2/2025,82.68,Low Stock,83,Safe
+M937,Losartan,Hypertension,GlobalMed,151,93,1.76,10/23/2026,10/28/2025,265.76,In Stock,199,Safe
+M938,Cetirizine,Antihistamine,PharmaPlus,179,41,0.52,1/24/2027,2/6/2026,93.08,In Stock,292,Safe
+M939,Losartan,Hypertension,MedSupply Co,25,81,1.86,9/27/2026,1/18/2026,46.5,Low Stock,173,Safe
+M940,Vitamin C,Supplement,PharmaPlus,89,33,0.65,9/15/2026,12/21/2025,57.85,In Stock,161,Safe
+M941,Omeprazole,Antacid,PharmaPlus,174,39,1.44,9/16/2026,2/23/2026,250.56,In Stock,162,Safe
+M942,Vitamin C,Supplement,HealthCorp,135,74,1.09,8/17/2026,2/12/2026,147.15,In Stock,132,Safe
+M943,Vitamin C,Supplement,GlobalMed,186,27,1.55,7/9/2026,12/27/2025,288.3,In Stock,93,Safe
+M944,Amlodipine,Hypertension,HealthCorp,28,68,0.67,4/7/2027,10/31/2025,18.76,Low Stock,365,Safe
+M945,Ibuprofen,Painkiller,MedSupply Co,39,35,1.97,1/22/2027,3/15/2026,76.83,In Stock,290,Safe
+M946,Vitamin C,Supplement,PharmaPlus,177,24,1.74,7/1/2026,3/30/2026,307.98,In Stock,85,Safe
+M947,Azithromycin,Antibiotic,MedSupply Co,111,87,0.63,12/5/2026,3/4/2026,69.93,In Stock,242,Safe
+M948,Cetirizine,Antihistamine,GlobalMed,26,91,1.74,6/29/2026,1/13/2026,45.24,Low Stock,83,Safe
+M949,Cetirizine,Antihistamine,MedSupply Co,50,32,1.53,3/30/2027,3/27/2026,76.5,In Stock,357,Safe
+M950,Losartan,Hypertension,HealthCorp,9,34,1.16,6/24/2026,1/18/2026,10.44,Low Stock,78,Safe
+M951,Paracetamol,Painkiller,HealthCorp,54,70,0.5,3/11/2027,11/15/2025,27,Low Stock,338,Safe
+M952,Ibuprofen,Painkiller,HealthCorp,162,59,1.64,11/21/2026,1/7/2026,265.68,In Stock,228,Safe
+M953,Ibuprofen,Painkiller,GlobalMed,30,52,1.4,4/4/2027,4/4/2026,42,Low Stock,362,Safe
+M954,Cetirizine,Antihistamine,GlobalMed,89,22,1.52,10/15/2026,3/13/2026,135.28,In Stock,191,Safe
+M955,Cetirizine,Antihistamine,HealthCorp,68,93,1.86,7/21/2026,3/26/2026,126.48,Low Stock,105,Safe
+M956,Paracetamol,Painkiller,PharmaPlus,102,24,1.84,6/22/2026,11/27/2025,187.68,In Stock,76,Safe
+M957,Losartan,Hypertension,MedSupply Co,34,79,0.98,12/19/2026,3/3/2026,33.32,Low Stock,256,Safe
+M958,Omeprazole,Antacid,GlobalMed,127,62,1.5,2/7/2027,12/9/2025,190.5,In Stock,306,Safe
+M959,Amlodipine,Hypertension,MedSupply Co,39,98,0.55,8/14/2026,1/31/2026,21.45,Low Stock,129,Safe
+M960,Ibuprofen,Painkiller,HealthCorp,8,63,0.5,5/13/2026,3/17/2026,4,Low Stock,36,Safe
+M961,Cetirizine,Antihistamine,PharmaPlus,41,89,0.59,3/19/2027,1/24/2026,24.19,Low Stock,346,Safe
+M962,Ibuprofen,Painkiller,HealthCorp,32,57,0.68,11/8/2026,12/22/2025,21.76,Low Stock,215,Safe
+M963,Metformin,Diabetes,HealthCorp,54,76,1.42,9/29/2026,11/27/2025,76.68,Low Stock,175,Safe
+M964,Amoxicillin,Antibiotic,MedSupply Co,115,69,1.64,1/19/2027,1/16/2026,188.6,In Stock,287,Safe
+M965,Ibuprofen,Painkiller,PharmaPlus,147,37,1.56,3/28/2027,12/11/2025,229.32,In Stock,355,Safe
+M966,Azithromycin,Antibiotic,MedSupply Co,118,62,1.81,7/23/2026,3/13/2026,213.58,In Stock,107,Safe
+M967,Amoxicillin,Antibiotic,GlobalMed,197,53,0.7,7/2/2026,3/5/2026,137.9,In Stock,86,Safe
+M968,Ibuprofen,Painkiller,HealthCorp,92,22,1.08,3/20/2027,12/23/2025,99.36,In Stock,347,Safe
+M969,Amoxicillin,Antibiotic,PharmaPlus,33,94,0.82,12/7/2026,3/30/2026,27.06,Low Stock,244,Safe
+M970,Azithromycin,Antibiotic,GlobalMed,134,92,1.66,8/14/2026,2/2/2026,222.44,In Stock,129,Safe
+M971,Amoxicillin,Antibiotic,MedSupply Co,112,40,1.26,3/28/2027,1/19/2026,141.12,In Stock,355,Safe
+M972,Cetirizine,Antihistamine,HealthCorp,120,21,0.68,6/1/2026,2/4/2026,81.6,In Stock,55,Safe
+M973,Azithromycin,Antibiotic,HealthCorp,116,77,0.9,9/27/2026,11/6/2025,104.4,In Stock,173,Safe
+M974,Omeprazole,Antacid,MedSupply Co,91,97,0.73,9/22/2026,3/8/2026,66.43,Low Stock,168,Safe
+M975,Metformin,Diabetes,PharmaPlus,80,22,1.82,3/21/2027,12/11/2025,145.6,In Stock,348,Safe
+M976,Paracetamol,Painkiller,PharmaPlus,108,87,0.61,3/24/2027,3/1/2026,65.88,In Stock,351,Safe
+M977,Amlodipine,Hypertension,MedSupply Co,78,80,0.99,10/7/2026,3/12/2026,77.22,Low Stock,183,Safe
+M978,Omeprazole,Antacid,MedSupply Co,132,77,0.6,12/21/2026,3/30/2026,79.2,In Stock,258,Safe
+M979,Amoxicillin,Antibiotic,MedSupply Co,88,99,1.44,10/22/2026,3/24/2026,126.72,Low Stock,198,Safe
+M980,Metformin,Diabetes,GlobalMed,0,90,1.29,12/5/2026,11/26/2025,0,Out of Stock,242,Safe
+M981,Metformin,Diabetes,MedSupply Co,158,29,0.67,11/23/2026,3/5/2026,105.86,In Stock,230,Safe
+M982,Cetirizine,Antihistamine,PharmaPlus,90,87,1.91,9/25/2026,1/29/2026,171.9,In Stock,171,Safe
+M983,Losartan,Hypertension,HealthCorp,95,51,1.79,10/26/2026,3/30/2026,170.05,In Stock,202,Safe
+M984,Ibuprofen,Painkiller,PharmaPlus,90,51,1.23,6/29/2026,3/26/2026,110.7,In Stock,83,Safe
+M985,Ibuprofen,Painkiller,PharmaPlus,82,40,1.88,1/22/2027,12/22/2025,154.16,In Stock,290,Safe
+M986,Vitamin C,Supplement,MedSupply Co,12,98,1.56,10/1/2026,11/18/2025,18.72,Low Stock,177,Safe
+M987,Paracetamol,Painkiller,MedSupply Co,80,100,1.58,9/19/2026,11/4/2025,126.4,Low Stock,165,Safe
+M988,Losartan,Hypertension,HealthCorp,170,67,0.51,1/12/2027,1/11/2026,86.7,In Stock,280,Safe
+M989,Amlodipine,Hypertension,MedSupply Co,35,85,1.24,8/14/2026,2/23/2026,43.4,Low Stock,129,Safe
+M990,Omeprazole,Antacid,MedSupply Co,12,60,1.79,11/30/2026,3/13/2026,21.48,Low Stock,237,Safe
+M991,Losartan,Hypertension,PharmaPlus,184,40,1.2,12/3/2026,2/21/2026,220.8,In Stock,240,Safe
+M992,Metformin,Diabetes,HealthCorp,33,26,1.12,12/24/2026,10/22/2025,36.96,In Stock,261,Safe
+M993,Omeprazole,Antacid,GlobalMed,150,73,0.84,10/4/2026,1/29/2026,126,In Stock,180,Safe
+M994,Ibuprofen,Painkiller,MedSupply Co,178,26,0.6,8/25/2026,3/31/2026,106.8,In Stock,140,Safe
+M995,Amlodipine,Hypertension,GlobalMed,169,81,0.64,7/9/2026,12/20/2025,108.16,In Stock,93,Safe
+M996,Cetirizine,Antihistamine,GlobalMed,70,34,1.72,1/20/2027,3/24/2026,120.4,In Stock,288,Safe
+M997,Ibuprofen,Painkiller,GlobalMed,15,45,0.71,12/12/2026,11/18/2025,10.65,Low Stock,249,Safe
+M998,Vitamin C,Supplement,GlobalMed,128,81,1.94,3/2/2027,2/14/2026,248.32,In Stock,329,Safe
+M999,Losartan,Hypertension,MedSupply Co,132,72,1.27,3/10/2027,12/6/2025,167.64,In Stock,337,Safe
+M1000,Amoxicillin,Antibiotic,HealthCorp,11,51,1.93,9/30/2026,11/11/2025,21.23,Low Stock,176,Safe
