@@ -1,5 +1,11 @@
 # 🏥 Pharmacy Inventory & Sales Analytics Dashboard
+---
 
+## 📸 Dashboard Preview
+
+![](insights/dash.jpg)
+
+---
 ## 📌 Overview
 
 This project analyzes pharmacy inventory and sales data to generate actionable insights using MySQL and Power BI. It focuses on tracking revenue performance, monitoring stock levels, and identifying risks such as low inventory and expiring medications.
@@ -84,13 +90,6 @@ All outputs were manually validated and refined to ensure accuracy and reliabili
 * Several medications frequently fall below reorder levels, indicating supply risk
 * Some inventory is nearing expiration, increasing the risk of wastage
 
----
-
-## 📸 Dashboard Preview
-
-![](insights/dash.jpg)
-
----
 
 ## 🚀 Future Improvements
 * Add demand forecasting  
