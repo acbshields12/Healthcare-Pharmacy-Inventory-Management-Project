@@ -88,7 +88,7 @@ All outputs were manually validated and refined to ensure accuracy and reliabili
 
 ## 📸 Dashboard Preview
 
-![](dashboard/dash.jpg)
+![](insights/dash.jpg)
 
 ---
 
